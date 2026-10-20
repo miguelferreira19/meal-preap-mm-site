@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="O teu plano de almoços e jantares, com receitas à tua medida e preços identificados do supermercado.">
+  <link rel="icon" type="image/svg+xml" href="assets/icon.svg">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preload" href="assets/dm-sans.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="style.css">
+  <title>Meal Preap M&amp;M — O nosso plano de refeições</title>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Saltar para o plano</a>
+  <header class="app-header">
+    <a class="brand" href="./" aria-label="Meal Preap M&amp;M, início"><span class="brand-mark"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M4 17h24a12 12 0 0 1-24 0ZM8 12h16M12 6v3M20 6v3"/></svg></span><span class="brand-name">Meal Preap <strong>M&amp;M</strong></span></a>
+    <nav class="main-nav" aria-label="Navegação principal">
+      <button data-nav="plan" aria-current="page"><span data-icon="calendar"></span><span>O meu plano</span></button>
+      <button data-nav="recipes"><span data-icon="book"></span><span>Receitas</span></button>
+      <button data-nav="shopping"><span data-icon="basket"></span><span>Lista de compras</span><span id="shopping-count" class="count" hidden></span></button>
+    </nav>
+    <button class="button subtle install-button" id="install-app" hidden><span data-icon="download"></span>Instalar app</button>
+    <span class="free-label">O nosso plano. Grátis.</span>
+  </header>
+  <main id="main-content" class="app-layout" tabindex="-1">
+    <aside class="settings-panel" aria-labelledby="settings-title">
+      <div class="settings-heading"><div><h2 id="settings-title">À tua medida</h2><p>Tu escolhes. Nós tratamos do plano.</p></div><span class="heading-icon" data-icon="settings"></span></div>
+      <form id="settings-form">
+        <div class="settings-tabs" role="tablist" aria-label="Preferências do plano"><button type="button" role="tab" id="tab-plan" aria-controls="settings-plan" aria-selected="true" data-settings-tab="plan">Plano</button><button type="button" role="tab" id="tab-tastes" aria-controls="settings-tastes" aria-selected="false" data-settings-tab="tastes">Gostos</button><button type="button" role="tab" id="tab-kitchen" aria-controls="settings-kitchen" aria-selected="false" data-settings-tab="kitchen">Cozinha</button></div>
+        <div id="settings-plan" role="tabpanel" aria-labelledby="tab-plan" data-settings-page="plan">
+        <div class="field"><label for="people">Quantas pessoas?</label><div class="people-control"><span data-icon="users"></span><button type="button" data-step="-1" aria-label="Menos uma pessoa">−</button><input id="people" name="people" type="number" min="1" max="12" value="2" required aria-label="Número de pessoas"><button type="button" data-step="1" aria-label="Mais uma pessoa">+</button><span id="people-label">pessoas</span></div></div>
+        <div class="field"><label for="budget">Orçamento para o plano</label><div class="money-input"><span>€</span><input id="budget" name="budget" type="number" min="1" max="5000" step="0.5" value="85" required><span>no total</span></div></div>
+        <fieldset class="field"><legend>Onde fazes as compras?</legend><div id="store-options" class="store-options"></div><p class="field-note">Preços e embalagens da loja selecionada.</p></fieldset>
+        <div class="field two-fields"><div><label for="days">Quantos dias?</label><select id="days" name="days"><option value="3">3 dias</option><option value="5">5 dias</option><option value="7" selected>7 dias</option></select></div><div><label for="maxMinutes">Tempo por receita</label><select id="maxMinutes" name="maxMinutes"><option value="15">Até 15 min</option><option value="30">Até 30 min</option><option value="45" selected>Até 45 min</option><option value="60">Até 60 min</option></select></div></div>
+        <fieldset class="field"><legend>Que refeições?</legend><div class="choice-row"><label class="choice"><input type="checkbox" name="meal" value="lunch" checked><span data-icon="sun"></span>Almoços</label><label class="choice"><input type="checkbox" name="meal" value="dinner" checked><span data-icon="moon"></span>Jantares</label></div></fieldset>
+        <button type="button" class="button settings-next" data-settings-tab="tastes">Escolher proteínas e gostos <span data-icon="arrow"></span></button>
+        </div>
+        <div id="settings-tastes" role="tabpanel" aria-labelledby="tab-tastes" data-settings-page="tastes" hidden>
+          <fieldset class="field"><legend>Que proteínas queres?</legend><p class="field-note">Escolhe uma ou várias. Vamos alterná-las ao longo do plano, dentro do orçamento.</p><div id="protein-options" class="protein-options"></div></fieldset>
+          <fieldset class="field"><legend>Ingredientes de que não gostas</legend><label class="ingredient-search" for="avoid-search"><span data-icon="search"></span><input id="avoid-search" type="search" placeholder="Procurar ingrediente" autocomplete="off"></label><div id="avoid-selected" class="selected-ingredients"></div><div id="avoid-options" class="ingredient-options"></div></fieldset>
+          <details class="more-settings"><summary>Alergénios a excluir<span data-icon="chevron"></span></summary><div id="allergen-options" class="allergen-options"></div><p class="field-note">Confirma sempre os alergénios no rótulo do produto.</p></details>
+          <button type="button" class="button settings-next" data-settings-tab="kitchen">Escolher cozinha e despensa <span data-icon="arrow"></span></button>
+        </div>
+        <div id="settings-kitchen" role="tabpanel" aria-labelledby="tab-kitchen" data-settings-page="kitchen" hidden>
+          <fieldset class="field"><legend>O que tens na cozinha?</legend><div id="equipment-options" class="equipment-options"></div></fieldset>
+          <fieldset class="field"><legend>Já tens ingredientes em casa?</legend><p class="field-note">Indica a quantidade disponível. Compramos apenas o que faltar para todo o plano.</p><label class="ingredient-search" for="pantry-search"><span data-icon="search"></span><input id="pantry-search" type="search" placeholder="Procurar na despensa" autocomplete="off"></label><div id="pantry-selected" class="pantry-selected"></div><div id="pantry-options" class="ingredient-options"></div></fieldset>
+        </div>
+        <button class="button primary generate-button" id="generate-plan" type="submit"><span data-icon="spark"></span><span>Criar o meu plano</span><span data-icon="arrow"></span></button>
+        <p class="save-note"><span data-icon="check"></span>Sem conta. O teu plano fica neste dispositivo.</p>
+      </form>
+    </aside>
+    <section id="workspace" class="workspace" aria-live="polite" aria-busy="true"><div class="loading-state"><span class="spinner"></span><h1>A preparar a tua semana</h1><p>A consultar os produtos do supermercado…</p></div></section>
+  </main>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script type="module" src="app.mjs"></script>
+</body>
+</html>
