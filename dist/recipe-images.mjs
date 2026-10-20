@@ -1,4 +1,4 @@
-// Real photographs; all images are illustrative. Attribution and licences below.
+// Illustrative photographs: source and licence retained for every image.
 export default {
   "arroz-frango-legumes": {
     "src": "assets/recipes/arroz-frango-legumes.jpg",
@@ -207,5 +207,69 @@ export default {
     "sourceURL": "https://commons.wikimedia.org/wiki/File:Shrimp,_steamed_,_with_soy_sauce_and_yuzu_kosh%C5%8D,_on_peas_and_wild_rice_-_Massachusetts.jpg",
     "licence": "CC0",
     "licenceURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "criador-quesadillas": {
+    "src": "assets/recipes/criador-quesadillas.jpg",
+    "alt": "Fotografia ilustrativa: quesadillas de frango",
+    "credit": "Missvain",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Chicken_quesadilla_-_La_Casa_Restaurant_-_August_2023_-_Sarah_Stierch.jpg",
+    "licence": "CC BY 4.0",
+    "licenceURL": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "criador-camarao-guilho": {
+    "src": "assets/recipes/criador-camarao-guilho.jpg",
+    "alt": "Fotografia ilustrativa: camarão com alho",
+    "credit": "Juan Emilio Prades Bel",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Gambas_al_ajillo,_2024.jpg",
+    "licence": "CC BY 4.0",
+    "licenceURL": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "criador-frango-aveia": {
+    "src": "assets/recipes/criador-frango-aveia.jpg",
+    "alt": "Fotografia ilustrativa: peito de frango panado com acompanhamento",
+    "credit": "Gerda Arendt",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Chicken_breast,_Mainz.jpg",
+    "licence": "CC0",
+    "licenceURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "criador-mac-cheese": {
+    "src": "assets/recipes/massa-bolonhesa.jpg",
+    "alt": "Fotografia ilustrativa: massa à bolonhesa com carne de vaca",
+    "credit": "No machine-readable author provided. Chingon assumed (based on copyright claims).",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Spaghetti_Bolognese.jpg",
+    "licence": "Public domain",
+    "licenceURL": ""
+  },
+  "criador-empadao-filo": {
+    "src": "assets/recipes/criador-empadao-filo.jpg",
+    "alt": "Fotografia ilustrativa: empada com carne e massa filo",
+    "credit": "Petar Milošević",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Meat_burek_(GAK_bakery,_Belgrade,_Serbia).jpg",
+    "licence": "CC BY-SA 4.0",
+    "licenceURL": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "criador-empadao-frango": {
+    "src": "assets/recipes/frango-limao-forno.jpg",
+    "alt": "Fotografia ilustrativa: frango assado com limão e ervas",
+    "credit": "TheCulinaryGeek",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Roasted_Lemon_Herb_Chicken.jpg",
+    "licence": "CC BY 2.0",
+    "licenceURL": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "criador-hamburguer-atum": {
+    "src": "assets/recipes/salada-grao-atum.jpg",
+    "alt": "Fotografia ilustrativa: salada de atum, legumes e ovo",
+    "credit": "Katrin Gilger",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:French_Salade_nicoise_(4520629896).jpg",
+    "licence": "CC BY-SA 2.0",
+    "licenceURL": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "criador-tomatada": {
+    "src": "assets/recipes/ovos-escalfados-tomate.jpg",
+    "alt": "Fotografia ilustrativa: ovos escalfados em tomate",
+    "credit": "Calliopejen1",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Shakshuka_by_Calliopejen1.jpg",
+    "licence": "CC BY-SA 3.0",
+    "licenceURL": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 };

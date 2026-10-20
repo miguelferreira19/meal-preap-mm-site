@@ -3,7 +3,7 @@ import { DEFAULT_SETTINGS, EQUIPMENT, INGREDIENTS, RECIPES, STORES, PROTEINS, re
 const recipeById = new Map(RECIPES.map(recipe => [recipe.id, recipe]));
 const equipmentIds = new Set(EQUIPMENT.map(item => item.id));
 const storeIds = new Set(STORES.map(store => store.id));
-const allergens = new Set(['gluten', 'milk', 'egg', 'fish', 'nuts', 'soy', 'shellfish']);
+const allergens = new Set(['gluten', 'milk', 'egg', 'fish', 'nuts', 'soy', 'shellfish', 'mustard']);
 const quantityScale = 1000;
 const hasIngredient = id => Object.hasOwn(INGREDIENTS, id);
 const hasQuantityPrecision = value => Number.isFinite(value) && Number.isSafeInteger(Math.round(value * quantityScale)) && Math.abs(value * quantityScale - Math.round(value * quantityScale)) < 0.000001;
@@ -168,15 +168,17 @@ function planQuality(recipes, totalCents, preferences) {
   let adjacent = 0;
   let sameProtein = 0;
   let taste = 0;
+  const creatorRecipes = new Set();
   recipes.forEach((recipe, index) => {
     counts.set(recipe.id, (counts.get(recipe.id) ?? 0) + 1);
+    if (recipe.source) creatorRecipes.add(recipe.id);
     const protein = recipeProtein(recipe);
     proteinCounts.set(protein, (proteinCounts.get(protein) ?? 0) + 1);
     if (index && recipes[index - 1].id === recipe.id) adjacent++;
     if (index && recipeProtein(recipes[index - 1]) === protein) sameProtein++;
     taste += preferences[index]?.get(recipe.id) ?? 0;
   });
-  return counts.size * 100000 + proteinCounts.size * 350000 - [...proteinCounts.values()].reduce((sum, count) => sum + count * count * 6000, 0) - [...counts.values()].reduce((sum, count) => sum + count * count * 1000, 0) - adjacent * 250 - sameProtein * 10000 - totalCents * 0.05 + taste;
+  return counts.size * 100000 + creatorRecipes.size * 70000 + proteinCounts.size * 350000 - [...proteinCounts.values()].reduce((sum, count) => sum + count * count * 6000, 0) - [...counts.values()].reduce((sum, count) => sum + count * count * 1000, 0) - adjacent * 250 - sameProtein * 10000 - totalCents * 0.05 + taste;
 }
 
 function resultFor(recipes, settings, eligibleCount) {

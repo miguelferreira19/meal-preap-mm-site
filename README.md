@@ -28,4 +28,6 @@ A publicação está definida em .github/workflows/pages.yml. Este repositório 
 
 ## Receitas e imagens
 
-Catálogo próprio de receitas. Fotografias ilustrativas; os acompanhamentos podem diferir. Créditos e licenças em RECIPE_PHOTOS.md, ASSET_SOURCES.md e no detalhe das receitas. Não existe parceria com os supermercados nem com as marcas usadas como referência.
+O catálogo inclui oito adaptações de receitas públicas d’A Pitada do Pai e de Clara de Sousa, com nome, retrato, ligação à publicação original e alterações identificadas. O planeamento prefere estas receitas quando o orçamento, as proteínas, os utensílios e os preços disponíveis permitem. O filtro De criadores e a pesquisa permitem encontrar o autor. Fontes e retratos documentados em [CREATOR_SOURCES.md](CREATOR_SOURCES.md).
+
+Fotografias dos pratos são ilustrativas; os acompanhamentos podem diferir. Créditos e licenças em RECIPE_PHOTOS.md, ASSET_SOURCES.md e no detalhe das receitas. Não existe parceria com os criadores, supermercados ou marcas usadas como referência.

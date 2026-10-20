@@ -1,3 +1,4 @@
+import {CREATOR_RECIPES} from './creator-recipes.mjs';
 // Quantities are per serving. Pack sizes are defaults; verified products can override them.
 // Prices are deliberately absent: the planner requires a verified store price catalogue.
 const ingredient = (name, unit, packQuantity, category, allergens = []) =>
@@ -40,6 +41,19 @@ export const INGREDIENTS = Object.fromEntries(Object.entries({
   walnuts: ingredient('Miolo de noz', 'g', 150, 'Mercearia', ['nuts']),
   prawns: ingredient('Miolo de camarão', 'g', 200, 'Congelados', ['shellfish']),
   couscous: ingredient('Cuscuz de trigo', 'g', 500, 'Mercearia', ['gluten']),
+  oats: ingredient('Flocos de aveia finos', 'g', 500, 'Mercearia', ['gluten']),
+  parmesan: ingredient('Parmesão ralado', 'g', 100, 'Ovos e laticínios', ['milk']),
+  black_pepper: ingredient('Pimenta preta moída', 'g', 50, 'Mercearia'),
+  wraps: ingredient('Tortilhas de trigo', 'g', 320, 'Mercearia', ['gluten']),
+  yogurt: ingredient('Iogurte natural sem açúcar', 'g', 500, 'Ovos e laticínios', ['milk']),
+  pumpkin: ingredient('Abóbora em cubos', 'g', 500, 'Fruta e legumes'),
+  filo: ingredient('Massa filo', 'g', 250, 'Frescos', ['gluten']),
+  paprika: ingredient('Pimentão doce', 'g', 50, 'Mercearia'),
+  soy_sauce: ingredient('Molho de soja', 'ml', 150, 'Mercearia', ['soy','gluten']),
+  mustard: ingredient('Mostarda Dijon', 'g', 200, 'Mercearia', ['mustard']),
+  parsley: ingredient('Salsa fresca', 'g', 20, 'Fruta e legumes'),
+  coriander: ingredient('Coentros frescos', 'g', 20, 'Fruta e legumes'),
+  chili: ingredient('Malagueta fresca', 'g', 50, 'Fruta e legumes'),
 }).map(([id, value]) => [id, { id, ...value }]));
 
 export const STORES = [
@@ -80,6 +94,7 @@ export function recipeProtein(recipe){
 }
 
 export const RECIPES = [
+  ...CREATOR_RECIPES,
   {
     id:'massa-bolonhesa',name:'Esparguete à bolonhesa',description:'Carne de vaca num molho de tomate apurado, com esparguete.',minutes:35,equipment:['hob','pot','pan','knife'],diet:'all',image:'pasta',
     ingredients:amounts([['beef',150],['pasta',90],['canned_tomato',150],['onion',50],['carrot',60],['garlic',3],['olive_oil',8],['salt',1]]),

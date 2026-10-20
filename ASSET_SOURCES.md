@@ -22,3 +22,6 @@ Os logótipos servem apenas para identificar os retalhistas, sem afiliação com
 
 
 Atualização: logótipo Pingo Doce SVG do cabeçalho oficial: https://www.pingodoce.pt/on/demandware.static/Sites-pingo-doce-Site/-/default/dwaceeb355/images/logo_PD.svg . Novas fotografias e licenças: RECIPE_PHOTOS.md.
+
+
+Retratos dos criadores: consultar CREATOR_SOURCES.md para as páginas oficiais, ficheiros de origem e data da consulta.

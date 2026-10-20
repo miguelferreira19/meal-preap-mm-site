@@ -1,4 +1,4 @@
-// Official product identities and verified packs. No estimated prices.
+// Official product identities and verified pack sizes. No estimated prices.
 export default [
   {
     "ingredientId": "rice",
@@ -615,5 +615,161 @@ export default [
     "quantityBasis": "net",
     "packLabel": "Emb. 200 g",
     "expectedUnitLabel": "Emb. 200 g"
+  },
+  {
+    "ingredientId": "oats",
+    "store": "pingo-doce",
+    "productName": "Flocos de Aveia Integral Finos",
+    "url": "https://www.pingodoce.pt/home/produtos/bolachas-cereais-e-guloseimas/cereais-barras-e-bolsas-de-fruta/cereais-linha-e-fibra/flocos-de-aveia-integral-finos-pingo-doce-1011748.html",
+    "sku": "1011748",
+    "packQuantity": 1000,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "1000 g",
+    "expectedUnitLabel": "1 Kg"
+  },
+  {
+    "ingredientId": "black_pepper",
+    "store": "pingo-doce",
+    "productName": "Pimenta Preta Mo&iacute;da",
+    "url": "https://www.pingodoce.pt/home/produtos/mercearia/temperos-e-molhos/especiarias-e-ervas-aromaticas/pimenta-preta-moida-dani-997255.html",
+    "sku": "997255",
+    "packQuantity": 48,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "48 g",
+    "expectedUnitLabel": "0.048 Kg"
+  },
+  {
+    "ingredientId": "parmesan",
+    "store": "pingo-doce",
+    "productName": "Queijo Parmes&atilde;o Ralado Parmigiano Reggiano DOP",
+    "url": "https://www.pingodoce.pt/home/produtos/charcutaria-e-queijos/queijos/queijo-ralado%E2%80%8B/queijo-parmesao-ralado-parmigiano-reggiano-dop-pingo-doce-941490.html",
+    "sku": "941490",
+    "packQuantity": 60,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "60 g",
+    "expectedUnitLabel": "0.06 Kg"
+  },
+  {
+    "ingredientId": "wraps",
+    "store": "pingo-doce",
+    "productName": "Tortilhas Mexicanas de Trigo",
+    "url": "https://www.pingodoce.pt/home/produtos/padaria-e-pastelaria/pao-embalado/pao-de-hamburguer-hot-dog-e-wraps/tortilhas-mexicanas-de-trigo-old-el-paso-641042.html",
+    "sku": "641042",
+    "packQuantity": 244,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "244 g",
+    "expectedUnitLabel": "0.244 Kg"
+  },
+  {
+    "ingredientId": "yogurt",
+    "store": "pingo-doce",
+    "productName": "Iogurte Natural Pack 8",
+    "url": "https://www.pingodoce.pt/home/produtos/iogurtes-e-sobremesas/iogurtes/iogurtes-naturais%E2%80%8B/iogurte-natural-pack-8-pingo-doce-969872.html",
+    "sku": "969872",
+    "packQuantity": 1000,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "1000 g",
+    "expectedUnitLabel": "1 Kg"
+  },
+  {
+    "ingredientId": "paprika",
+    "store": "pingo-doce",
+    "productName": "Piment&atilde;o Doce",
+    "url": "https://www.pingodoce.pt/home/produtos/mercearia/temperos-e-molhos/especiarias-e-ervas-aromaticas/pimentao-doce-dani-997242.html",
+    "sku": "997242",
+    "packQuantity": 45,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "45 g",
+    "expectedUnitLabel": "0.045 Kg"
+  },
+  {
+    "ingredientId": "filo",
+    "store": "pingo-doce",
+    "productName": "Massa Filo",
+    "url": "https://www.pingodoce.pt/home/produtos/take-away/massas-lasanhas-e-outros-pratos/massa-filo-pingo-doce-765757.html",
+    "sku": "765757",
+    "packQuantity": 250,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "250 g",
+    "expectedUnitLabel": "0.25 Kg"
+  },
+  {
+    "ingredientId": "parsley",
+    "store": "pingo-doce",
+    "productName": "Salsa Fresca",
+    "url": "https://www.pingodoce.pt/home/produtos/frutas-e-vegetais/ervas-aromaticas-frescas/salsa-fresca-pingo-doce-953129.html",
+    "sku": "953129",
+    "packQuantity": 50,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "50 g",
+    "expectedUnitLabel": "0.05 Kg"
+  },
+  {
+    "ingredientId": "mustard",
+    "store": "pingo-doce",
+    "productName": "Mostarda Dijon em Frasco",
+    "url": "https://www.pingodoce.pt/home/produtos/mercearia/temperos-e-molhos/maionese-mostarda-e-ketchup/mostarda-dijon-em-frasco-pingo-doce-766176.html",
+    "sku": "766176",
+    "packQuantity": 200,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "200 g",
+    "expectedUnitLabel": "0.2 Kg"
+  },
+  {
+    "ingredientId": "soy_sauce",
+    "store": "pingo-doce",
+    "productName": "Molho de Soja",
+    "url": "https://www.pingodoce.pt/home/produtos/mercearia/temperos-e-molhos/outros-molhos-e-temperos/molho-de-soja-pingo-doce-936578.html",
+    "sku": "936578",
+    "packQuantity": 200,
+    "unit": "ml",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "200 ml",
+    "expectedUnitLabel": "0.2 L"
+  },
+  {
+    "ingredientId": "chili",
+    "store": "pingo-doce",
+    "productName": "Mix Malaguetas Embaladas",
+    "url": "https://www.pingodoce.pt/home/produtos/frutas-e-vegetais/vegetais/tomates-pepinos-e-pimentos/mix-malaguetas-embaladas-nossa-fruta-e-legumes-913642.html",
+    "sku": "913642",
+    "packQuantity": 100,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "100 g",
+    "expectedUnitLabel": "0.1 Kg"
+  },
+  {
+    "ingredientId": "coriander",
+    "store": "pingo-doce",
+    "productName": "Coentros Embalados",
+    "url": "https://www.pingodoce.pt/home/produtos/frutas-e-vegetais/ervas-aromaticas-frescas/coentros-embalados-pingo-doce-953132.html",
+    "sku": "953132",
+    "packQuantity": 50,
+    "unit": "g",
+    "soldByWeight": false,
+    "quantityBasis": "net",
+    "packLabel": "50 g",
+    "expectedUnitLabel": "0.05 Kg"
   }
 ];

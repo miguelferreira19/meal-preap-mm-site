@@ -28,3 +28,14 @@ Fotografias ilustrativas de pratos reais. A composição e o acompanhamento pode
 - **frango-airfryer**: [Daderot](https://commons.wikimedia.org/wiki/File:Chicken_breast_with_paprika_and_other_spices,_sauteed_broccoli,_and_sauteed,_sliced_potato_-_Massachusetts.jpg) · [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
 - **frango-curgete-arroz**: [HaJunkiyada](https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Grilled_chicken_with_zucchini_and_root_vegetable_mash.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 - **arroz-camarao**: [Daderot](https://commons.wikimedia.org/wiki/File:Shrimp,_steamed_,_with_soy_sauce_and_yuzu_kosh%C5%8D,_on_peas_and_wild_rice_-_Massachusetts.jpg) · [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+
+## Adaptações de criadores — 20/10/2026
+
+- **criador-empadao-filo**: [Petar Milošević](https://commons.wikimedia.org/wiki/File:Meat_burek_(GAK_bakery,_Belgrade,_Serbia).jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Fotografia ilustrativa.
+- **criador-mac-cheese**: [No machine-readable author provided. Chingon assumed (based on copyright claims).](https://commons.wikimedia.org/wiki/File:Spaghetti_Bolognese.jpg) · [Public domain](). Fotografia ilustrativa.
+- **criador-quesadillas**: [Missvain](https://commons.wikimedia.org/wiki/File:Chicken_quesadilla_-_La_Casa_Restaurant_-_August_2023_-_Sarah_Stierch.jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Fotografia ilustrativa.
+- **criador-frango-aveia**: [Gerda Arendt](https://commons.wikimedia.org/wiki/File:Chicken_breast,_Mainz.jpg) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Fotografia ilustrativa.
+- **criador-empadao-frango**: [TheCulinaryGeek](https://commons.wikimedia.org/wiki/File:Roasted_Lemon_Herb_Chicken.jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Fotografia ilustrativa.
+- **criador-camarao-guilho**: [Juan Emilio Prades Bel](https://commons.wikimedia.org/wiki/File:Gambas_al_ajillo,_2024.jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Fotografia ilustrativa.
+- **criador-hamburguer-atum**: [Katrin Gilger](https://commons.wikimedia.org/wiki/File:French_Salade_nicoise_(4520629896).jpg) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0). Fotografia ilustrativa.
+- **criador-tomatada**: [Calliopejen1](https://commons.wikimedia.org/wiki/File:Shakshuka_by_Calliopejen1.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Fotografia ilustrativa.

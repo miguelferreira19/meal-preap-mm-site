@@ -111,8 +111,8 @@ test('cooked lentil portions and weighed lemon match the actual retailer catalog
     }
     const lemon = item.ingredients.find(ingredient => ingredient.id === 'lemon');
     if (lemon) {
-      assert.equal(lemon.quantity, 30);
-      assert.match(item.steps.join(' '), /sumo/);
+      assert(lemon.quantity >= 20 && lemon.quantity <= 100, 'whole-fruit grams per serving, not a count or juice millilitres');
+      assert.match(item.steps.join(' '), /sumo|raspa/);
     }
   }
   const catalogue = JSON.parse(readFileSync(new URL('../dist/prices-snapshot.json', import.meta.url), 'utf8'));
