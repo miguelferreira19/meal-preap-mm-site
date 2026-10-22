@@ -1,12 +1,16 @@
 // Public primary sources checked 2026-10-20. Concise adaptations written for this app.
 // Quantities are raw and per main-course serving, unless explicitly stated otherwise.
+import {EXTRA_CREATORS} from './recipes/creators.mjs';
+import {EXTRA_RECIPES} from './recipes/catalogue.mjs';
 export const CREATORS = [
+ ...EXTRA_CREATORS,
  {id:'pitada',name:'A Pitada do Pai',personName:'Rui Marques',portrait:'assets/creators/pitada.jpg',portraitSource:'https://www.apitadadopai.com/wp-content/uploads/2024/08/rui-livro-airfryer-850x567-1-e1777980455493-300x300.jpg',portraitPage:'https://www.apitadadopai.com/receitas-para-airfryer/',handle:'@apitadadopai',profile:'https://www.instagram.com/apitadadopai/',audience:'618 mil',audienceCheckedAt:'2026-10-20'},
  {id:'clara',name:'Clara de Sousa',personName:'Clara de Sousa',portrait:'assets/creators/clara.png',portraitSource:'https://claradesousa.pt/wp-content/uploads/elementor/thumbs/claradesousa-imagemperfil-round-ql94ihjlazwie4e6brwnmsivij9amvu5q0cixv7d56.png',portraitPage:'https://claradesousa.pt/sobre-a-clara/',handle:'@claradesousa_cozinha_bricolage',profile:'https://www.instagram.com/claradesousa_cozinha_bricolage/',audience:'199 mil',audienceCheckedAt:'2026-10-20'},
 ];
 const amounts=pairs=>pairs.map(([id,quantity])=>({id,quantity}));
 const source=(creator,url,publishedAt,adaptation,credit)=>({creator,url,publishedAt,adaptation,credit,checkedAt:'2026-10-20'});
 export const CREATOR_RECIPES = [
+ ...EXTRA_RECIPES,
  {
   id:'criador-empadao-filo',name:'Empadão crocante de carne e abóbora',description:'Vaca, feijão e abóbora sob uma cobertura de massa filo estaladiça.',minutes:40,equipment:['hob','pan','oven','knife'],diet:'all',image:'chicken',
   source:source('pitada','https://www.apitadadopai.com/empadao-frango-crocante/','2026-10-14','Usamos a alternativa de carne picada indicada na fonte. Doses de prato principal, alho fresco e quantidades de massa e temperos definidos por nós.','A Pitada do Pai · Inês Aguiar'),

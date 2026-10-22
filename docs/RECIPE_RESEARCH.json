@@ -1,0 +1,2411 @@
+{
+  "schemaVersion": 1,
+  "researchCheckedAt": "2026-10-20",
+  "preparedAt": "2026-10-22",
+  "summary": {
+    "creatorRecipes": 109,
+    "mainRecipes": 106,
+    "extras": 3,
+    "creators": 10,
+    "newRecipes": 101,
+    "requestedCreators": 15,
+    "requestedCreatorsWithIntegratedRecipes": 9,
+    "primaryPublicSources": 101,
+    "indexedPublicCaptions": 8
+  },
+  "scope": {
+    "completeArchive": false,
+    "currentTrendingClaim": false,
+    "paidContentUsed": false,
+    "ingredientsAndSteps": "Quantidades por pessoa ou porção e instruções próprias da adaptação disponíveis na aplicação. Pesos, acompanhamentos, métodos e substituições definidos pela app são identificados no campo adaptation.",
+    "priceCoverage": "As receitas permanecem no catálogo mesmo sem todos os preços. Só entram no plano se houver preços oficiais válidos e compatibilidade com as escolhas."
+  },
+  "profiles": [
+    {
+      "id": "vasco",
+      "name": "Vasco Meska",
+      "profile": "https://www.instagram.com/vascomeska/",
+      "requested": true,
+      "status": "no-complete-recipe-found",
+      "recipes": 0,
+      "mainRecipes": 0,
+      "extras": 0,
+      "evidence": "Seis legendas públicas consultadas: humor, viagens e publicidade; sem ficha culinária completa.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "receituando",
+      "name": "Receituando Master",
+      "profile": "https://www.youtube.com/@ReceituandoMaster",
+      "requested": true,
+      "status": "integrated",
+      "recipes": 29,
+      "mainRecipes": 29,
+      "extras": 0,
+      "evidence": "33 publicações YouTube analisadas; 29 descrições públicas com ingredientes integradas. Nas restantes quatro faltou evidência suficiente.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "carmem",
+      "name": "Carmem Pimentinha",
+      "profile": "https://www.tiktok.com/@carmemlu_",
+      "requested": true,
+      "status": "identity-access-limited",
+      "recipes": 0,
+      "mainRecipes": 0,
+      "extras": 0,
+      "evidence": "O TikTok limitou a consulta com HTTP 429. O Instagram com o mesmo identificador não foi confirmado como sendo desta criadora; não foi usado.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "terapia",
+      "name": "Terapia no Fogo",
+      "profile": "https://www.instagram.com/terapianofogo/",
+      "requested": true,
+      "status": "integrated",
+      "recipes": 22,
+      "mainRecipes": 22,
+      "extras": 0,
+      "evidence": "23 publicações YouTube analisadas; 22 integradas. A descrição da poke bowl só documenta o arroz, sem os restantes componentes.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "hyzer",
+      "name": "Tiago Costa — Hyzer",
+      "profile": "https://www.instagram.com/_hyzer_/",
+      "requested": true,
+      "status": "integrated-access-limited",
+      "recipes": 4,
+      "mainRecipes": 4,
+      "extras": 0,
+      "evidence": "Quatro vídeos originais com legendas/transcrição portuguesa verificados. TikTok @hyzer_tc e Instagram @_hyzer_. O arquivo do perfil pede login; o desafio Bimbo ficou sem ficha verificável.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "jamon",
+      "name": "ChefeJamon",
+      "profile": "https://www.instagram.com/chefejamon/",
+      "requested": true,
+      "status": "integrated",
+      "recipes": 14,
+      "mainRecipes": 14,
+      "extras": 0,
+      "evidence": "23 publicações YouTube analisadas; 14 descrições com ingredientes integradas. Nove ficaram sem ingredientes ou preparação verificáveis.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos Aleluia",
+      "profile": "https://www.instagram.com/realcarlosaleluia/",
+      "requested": true,
+      "status": "no-complete-recipe-found",
+      "recipes": 0,
+      "mainRecipes": 0,
+      "extras": 0,
+      "evidence": "O perfil confirmado é @realcarlosaleluia. @carlos_aleluia é outra pessoa. Seis legendas consultadas descrevem restaurantes, viagens ou publicidade, sem receita completa.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "pitada",
+      "name": "A Pitada do Pai",
+      "profile": "https://www.instagram.com/apitadadopai/",
+      "requested": true,
+      "status": "integrated",
+      "recipes": 6,
+      "mainRecipes": 6,
+      "extras": 0,
+      "evidence": "Seis fichas do site oficial já integradas. O crédito editorial a Inês Aguiar é conservado; o retrato identifica Rui Marques, apresentador do canal.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "monica",
+      "name": "Mónica Ribeiro",
+      "profile": "https://www.instagram.com/monicaffr/",
+      "requested": true,
+      "status": "no-complete-recipe-found",
+      "recipes": 0,
+      "mainRecipes": 0,
+      "extras": 0,
+      "evidence": "Seis legendas consultadas sobre remodelação, maternidade, decoração e roupa; sem ficha culinária completa.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "jucy",
+      "name": "Jucyléia C. Machado",
+      "profile": "https://www.instagram.com/jucy.masterchef/",
+      "requested": true,
+      "status": "integrated",
+      "recipes": 7,
+      "mainRecipes": 7,
+      "extras": 0,
+      "evidence": "13 publicações analisadas: sete adaptações integradas, quatro excluídas e duas páginas Band sem ficha acessível. As cinco fichas Band integradas são do MasterChef Brasil, não de Portugal.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "foodies",
+      "name": "FOODIES by Carolina",
+      "profile": "https://www.instagram.com/foodiesguide__/",
+      "requested": true,
+      "status": "integrated-mixed-evidence",
+      "recipes": 11,
+      "mainRecipes": 8,
+      "extras": 3,
+      "evidence": "15 legendas públicas analisadas. Oito pratos principais e três extras: três legendas confirmadas diretamente no Instagram e oito consultadas em índices públicos. Quatro promoções não tinham ficha completa.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "tascologo",
+      "name": "O Tascólogo",
+      "profile": "https://www.instagram.com/tascologo/",
+      "requested": true,
+      "status": "no-complete-recipe-found",
+      "recipes": 0,
+      "mainRecipes": 0,
+      "extras": 0,
+      "evidence": "Seis legendas consultadas: restaurantes, aplicação Devora e uma colaboração a fazer pão sem ingredientes nem método publicados na legenda.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "joao",
+      "name": "João Meireles",
+      "profile": "https://www.instagram.com/argelinooo_/",
+      "requested": true,
+      "status": "identity-access-limited",
+      "recipes": 0,
+      "mainRecipes": 0,
+      "extras": 0,
+      "evidence": "As páginas indicadas não disponibilizaram publicações com legenda. Identidade e fichas culinárias por confirmar; nenhuma conta parecida foi usada como substituto.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "gil",
+      "name": "Gil Treats Gil",
+      "profile": "https://www.instagram.com/gil.treats.gil/",
+      "requested": true,
+      "status": "integrated",
+      "recipes": 12,
+      "mainRecipes": 12,
+      "extras": 0,
+      "evidence": "25 artigos gratuitos Substack lidos: 12 adaptações integradas e 13 artigos, técnicas, anúncios ou preparações cruas excluídos. Não foram abertos os 49 artigos identificados como pagos.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "kelvio",
+      "name": "Kelvio Januário",
+      "profile": "https://www.instagram.com/kelvio.antunes/",
+      "requested": true,
+      "status": "integrated-access-limited",
+      "recipes": 2,
+      "mainRecipes": 2,
+      "extras": 0,
+      "evidence": "Duas refeições de vídeos originais integradas. O arroz de brócolos de outro episódio é componente de uma delas, sem dupla contagem. Site oficial confirma TikTok @_kelvio_ e Instagram @kelvio.antunes; arquivo completo limitado por login.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "id": "clara",
+      "name": "Clara de Sousa",
+      "profile": "https://www.instagram.com/claradesousa_cozinha_bricolage/",
+      "requested": false,
+      "status": "integrated",
+      "recipes": 2,
+      "mainRecipes": 2,
+      "extras": 0,
+      "evidence": "Duas fichas do site oficial já integradas; autora adicional conservada no catálogo.",
+      "checkedAt": "2026-10-20"
+    }
+  ],
+  "recipes": [
+    {
+      "recipeId": "criador-terapia-feijoada-entrecosto",
+      "title": "Feijoada de entrecosto e couve",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=j1gjh6yFzQw",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-10-07",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Usamos feijão manteiga já cozido, pesado escorrido, em vez do feijão seco demolhado. O tempo indicado inclui o estufado, sem demolha."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-pataniscas-cavala",
+      "title": "Pataniscas de cavala com arroz de tomate",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=R6Xm8Szfjkc",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-10-03",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Cavala em conserva pesada escorrida; a fonte remete também para cavala em conserva. Arroz de tomate acrescentado por nós para completar a refeição. O óleo contabilizado cobre uma fritura pouco funda."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-ossobuco-batatinhas",
+      "title": "Ossobuco no forno com batatinhas",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=oxGkVRN3U6A",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-10-17",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. O peso do ossobuco inclui osso. Azeite substitui a banha; usamos a alternativa de água da fonte e definimos a dose de batatas. Tempo total inclui a cozedura lenta."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-cachaco-castanhas",
+      "title": "Cachaço com castanhas e cogumelos",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=XXY0K6uDh3I",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-09-26",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Castanhas contabilizadas descascadas em cru e cozidas durante a preparação; a fonte indica castanhas já cozidas. Tomate comum substitui o cherry."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-camarao-cremoso",
+      "title": "Camarão cremoso de limão e alho",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=fSsGBcbyblc",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-09-30",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Peso de camarão inteiro com casca. Usamos natas lácteas em vez da alternativa vegetal Planta publicitada e acrescentamos o limão fora do lume para proteger o molho."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-arroz-tamboril",
+      "title": "Arroz de tamboril e camarão",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=cJhvrkVVlSA",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-09-19",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Simplificámos o caldo: cascas do camarão, legumes e água substituem as cabeças de tamboril. Lombo de tamboril sem osso e camarão inteiro com casca são contabilizados separadamente."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-coelho-ervilhas",
+      "title": "Coelho estufado com arroz de ervilhas",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=-uJv9xEI9bQ",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-09-16",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. O título do vídeo refere escabeche, mas a descrição fornece coelho estufado; seguimos estes ingredientes, sem acrescentar vinagre. Peso das pernas inclui osso."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-entrecosto-forno",
+      "title": "Entrecosto de alho e pimentão no forno",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=jVgSglvKZks",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-09-12",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. O original é grelhado; adaptámos o mesmo tempero para forno e juntámos batata e cenoura. O tempo inclui 30 minutos de marinada e a assadura, sem prometer sabor de brasa."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-carapaus-alimados",
+      "title": "Carapaus alimados com batata cozida",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=rlfIYZ5P4m0",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-09-05",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Carapau contabilizado inteiro e amanhado, incluindo espinhas. Batata e tomate acrescentados como acompanhamento; sal e azeite ajustados para a dose."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-costeleta-ervas",
+      "title": "Costeleta com manteiga de ervas",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=SDM14o7HFQs",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-29",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Adaptada da brasa para frigideira. Reduzimos a manteiga da fonte e acrescentámos batata e brócolos; o peso da costeleta inclui osso."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-bife-ovo",
+      "title": "Bife com ovo e molho de mostarda",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=Tg7NhFZFmfQ",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-27",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Quantidades de molho definidas por nós; acrescentámos batata e tomate. O original anuncia 15 minutos para bife e ovo; os 40 minutos aqui incluem o acompanhamento."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-paella-frango-camarao",
+      "title": "Paella de frango e camarão",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=st0NOywNNJs",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-22",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Arroz comum de grão curto em vez da marca publicitada. O caldo simplificado leva cascas e legumes; o frango é contabilizado cru com osso, em pedaços pequenos."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-frango-cogumelos",
+      "title": "Frango com molho cremoso de cogumelos",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=VAuxP5g9Aq8",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-19",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Usamos peito sem pele, em bifes, em vez dos peitos com pele da fonte. Água substitui o caldo pronto, a manteiga foi reduzida e o arroz é acompanhamento acrescentado por nós."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-arroz-frango-forno",
+      "title": "Arroz de frango no forno",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=MEp4byDrFxg",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-15",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Peso de frango cru inclui osso. Quantificámos o frango do campo e os temperos e escolhemos arroz carolino sem compromisso com uma marca."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-gambas-alho",
+      "title": "Gambas ao alho com pão",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=KYmgKELwdrw",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-12",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Contabilizamos gambas inteiras com casca e definimos a dose de pão. Tomate e pepino foram acrescentados para servir como refeição."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-chocos-molho-coentros",
+      "title": "Chocos com molho de coentros",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=WLVeaRKGzKs",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-05",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Adaptado da brasa para frigideira e acompanhado de batata acrescentada por nós. Choco contabilizado já limpo, sem vísceras."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-arroz-corvina-gambas",
+      "title": "Arroz de corvina e gambas",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=ikuJa2LGtpk",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-07-29",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Filetes de corvina sem espinhas, em vez de comprar o peixe inteiro. O caldo simplificado usa cascas de gambas e cebola; não se contabilizam cabeças de peixe que não usamos."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-pregado-alho",
+      "title": "Pregado com alho e batata cozida",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=Ru3jnNrXH5A",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-01",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Postas com osso substituem o pregado inteiro na brasa. O molho é uma adaptação simples, sem prometer a emulsão pil-pil original; batata e brócolos foram acrescentados."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-polvo-pimentos",
+      "title": "Polvo estufado com pimentos",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=a-eKg4sFZ7A",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-07-11",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Peso de polvo cru limpo; o rendimento diminui na cozedura. Tempo total inclui cozer o polvo de raiz e pode variar com a sua dimensão."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-costela-lenta",
+      "title": "Costela de vaca assada lentamente",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=v2IjJdO6yRA",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-07-16",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. A fonte é uma costela defumada; esta é uma adaptação nossa dos ingredientes públicos para forno doméstico, sem fumador nem sabor de fumagem prometido. Batata e cenoura acrescentadas; peso da carne inclui osso."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-lagartos-porco",
+      "title": "Lagartos de porco com arroz e salada",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=cw1jJQUijtk",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-07-22",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Adaptámos para frigideira e acrescentámos arroz, tomate e pepino. O tempo inclui marinada de 30 minutos. A dose de carne é de lagartos, não lombo de porco."
+      }
+    },
+    {
+      "recipeId": "criador-terapia-rissois-carne",
+      "title": "Rissóis de carne com arroz e salada",
+      "creator": "terapia",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=4v0Eoky5Ivk",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-07-08",
+        "credit": "Paulo Oliveira · Terapia no Fogo",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Doses de prato principal com arroz e tomate acrescentados. Óleo contabilizado para a frigideira, incluindo uma parte que ficará por consumir. Farinha inclui o recheio e a bancada; preparação inteiramente reescrita por nós."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-bacalhau-ze-pipo",
+      "title": "Bacalhau à Zé do Pipo",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=fy9LXir3QpA",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-10-08",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Bacalhau já demolhado, sem contar o tempo de demolha. Usamos ovo inteiro batido em dose definida em vez de apenas gema; alho fresco substitui alho em pó e o puré é espalhado à colher."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-rolos-francesinha",
+      "title": "Rolos de francesinha no forno",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=jDuPE1B0tiw",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-09-11",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Quantificámos os enchidos e cozinhámos previamente os frescos. Amassadura manual, queijo ralado em vez de duas variedades e salada acrescentada. Sem molho de francesinha opcional, não especificado nesta publicação; os 150 minutos incluem duas levedações."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-bochechas-vinho-tinto",
+      "title": "Bochechas de porco em vinho tinto",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=bZdX_eIVcTQ",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-09-17",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Água e os próprios legumes substituem o cubo de caldo. Quantificámos o puré sugerido pelo autor e escolhemos espinafres para os verdes; conservámos os legumes em vez de coar. Tempo de 3 horas de estufado incluído."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-frango-ervilhas",
+      "title": "Frango com ervilhas à tasqueiro",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=DG9DCqqoVS8",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-09-14",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Coxas contabilizadas com osso, sem substituir por peito. Quantificámos o puré sugerido na publicação, o chouriço e os temperos; não adicionámos o açúcar opcional."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-paezinhos-frango-picante",
+      "title": "Pãezinhos de frango picante",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=zMJjo-2vW3s",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-09-03",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Inspirados nos baos públicos do autor: adaptámos a massa para pãezinhos assados no forno, pois o catálogo de utensílios não inclui cesto de vapor. Não são baos cozidos a vapor. Alho fresco substitui alho em pó e fazemos cebola avinagrada simples."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-sandocha-lavagante",
+      "title": "Sandocha de lavagante em pão caseiro",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=A6_N0O9mQN8",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-08-23",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Usamos miolo de lavagante já cozido, contabilizado como tal, em vez de dois lavagantes inteiros da marca publicitada. Amassadura manual e doses definidas por nós; tempo inclui duas levedações. Descongelação, se necessária, é prévia."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-pato-batata-gratinada",
+      "title": "Pato com batata gratinada e framboesa",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=5QBuss3orTs",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-08-19",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Servimos a batata gratinada diretamente, sem a prensagem de 6 horas no frio nem a fritura posterior do original; por isso o total é 90 minutos. Quantificámos acompanhamentos e usamos alho fresco."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-francesinha-tradicional",
+      "title": "Francesinha de bife e enchidos",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=Is9Avr2vqUY",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-08-13",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Doses de enchidos, pão e molho definidas por nós; conservamos os ingredientes principais do molho público, sem MSG nem ovo opcionais. Ossos e entremeada são contabilizados mesmo sendo retirados do molho."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-bife-molho-mostarda",
+      "title": "Bife com molho de mostarda e espargos",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=pJWwoHyuTEw",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-08-07",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Bife de vaca comum em vez de exigir vazia maturada; corte permanece bife, nunca carne picada. Quantificámos batata e espargos, reduzimos a manteiga e substituímos alho em pó por fresco."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-burrito-peru",
+      "title": "Burrito de peru, arroz e feijão preto",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=aGsyatvsX3k",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-08-07",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Pimentão, cominhos e alho são um tempero nosso em vez da mistura de marca Mercadona; o molho de maionese e lima substitui o molho de alho pronto. Arroz pesado em cru, feijão escorrido e abacate pesado inteiro."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-shakshuka-favas",
+      "title": "Shakshuka de favas e linguiça",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=_ysxvTkhPrY",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-08-06",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Quantidades de prato principal, dois ovos por pessoa e pão contabilizado. Cebola avinagrada e malagueta fresca substituem pickles prontos e chili crisp; alho fresco em vez de alho em pó. A receita contém porco além dos ovos."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-bacalhau-alheira",
+      "title": "Bacalhau com crosta de alheira",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=tFmsiZJ9csI",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2023-11-17",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Bacalhau já demolhado, sem tempo de demolha incluído. Quantidades e azeite usados na preparação pública foram definidos por nós; o tempo da air fryer é ajustado à espessura da posta. A alheira contém carne além do peixe."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-arroz-frito-frango",
+      "title": "Arroz frito de frango e ovo",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=G_l0Ou4HkxQ",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2023-10-12",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos frango, cenoura e ervilhas entre os ingredientes opcionais. O arroz é cozido de raiz e pesado em cru; não exigimos sobras do dia anterior. Método de saltear e óleo de confeção definidos por nós, pois a descrição publica ingredientes sem passos."
+      }
+    },
+    {
+      "recipeId": "criador-jamon-jardineira-gnocchi",
+      "title": "Jardineira de vaca com gnocchi caseiro",
+      "creator": "jamon",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=O1rYJhx8sSc",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2023-09-19",
+        "credit": "ChefeJamon",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. A descrição diz apenas carne em pedaços: escolhemos vaca própria para estufar e identificamos esta escolha. Quantificámos a massa de batata, conservando os ingredientes públicos; farinha inclui a bancada. Tempo total inclui estufado e gnocchi."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-frango-manteiga-alho",
+      "title": "Frango na manteiga de alho",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=mhsRjuHWQF8",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2023-02-12",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Arroz e brócolos acrescentados para refeição completa. Malagueta fresca e pimentão doce substituem as duas pimentas picantes secas da fonte."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-empadao-frango-milho",
+      "title": "Empadão de frango, milho e ervilhas",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=Z4dxaCoY2js",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-05-23",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. O cubo de caldo foi omitido e substituído pelos aromáticos e água. Batata pesada em cru; tomate pelado substitui molho pronto e natas substituem creme de leite."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-frango-ovo-tomate",
+      "title": "Frango com creme de ovo e tomate",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=hZWbqvRaLcs",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2020-08-21",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos pimentão e cominhos em vez da mistura não especificada de tempero baiano. Natas substituem creme de leite e acrescentámos arroz. Preparação de gratinado definida por nós a partir dos ingredientes públicos."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-frango-caril-batatas",
+      "title": "Gratinado de frango e batata com caril",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=_1_KeUa2hlw",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-12-06",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Batata pesada em cru e pré-cozida por nós para garantir cozedura uniforme. Natas substituem creme de leite; doses de bifes e temperos definidas por nós."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-frango-creme-batata-bacon",
+      "title": "Frango com creme de batata e bacon",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=z91H1ZNDAps",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-02-11",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Barriga fumada é contabilizada como bacon; queijo creme substitui o requeijão cremoso brasileiro e natas substituem creme de leite. Curámos a dose do molho e escolhemos um único pimentão mais malagueta."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-asinhas-gengibre",
+      "title": "Asinhas crocantes com gengibre",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=tZODr7MjuJI",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2023-06-20",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. A descrição não fornece método nem gordura: definimos uma versão de forno, com óleo contabilizado, e acrescentámos arroz e salada. Asas pesadas com osso; não são bifes de peito."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-tarte-frango-liquidificador",
+      "title": "Tarte de frango de massa batida",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=w08GD_l4nao",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-05-11",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Frango contabilizado em cru e cozido de raiz, em vez de peso já desfiado. Óleo reduzido face à massa original; queijo creme substitui requeijão cremoso brasileiro. Milho pesado escorrido e cheiro-verde escolhido como salsa."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-frango-panado-forno",
+      "title": "Frango panado no forno",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=qFgZ-zusquA",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2020-11-30",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Cebola fresca ralada substitui cebola desidratada. Acrescentámos arroz e salada e definimos o tempo de forno para bifes finos; não incluímos qualquer fritura."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-frango-crosta-ovo",
+      "title": "Frango com crosta leve de ovo",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=iIt9w2JZ9ec",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-04-15",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Preparação nossa para o conjunto de gema, clara e amido publicado; a descrição não inclui passos. Óleo, arroz e brócolos acrescentados e contabilizados."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-frango-molho-branco",
+      "title": "Frango gratinado com molho branco",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=ZntQUm_URXI",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2021-10-07",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. A fonte pede molho branco sem indicar composição: a nossa versão de leite, manteiga e farinha é identificada e contabilizada. Curcuma interpreta o açafrão usado como tempero brasileiro; acrescentámos arroz."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-frango-batata-tomate",
+      "title": "Frango e batata gratinados com tomate",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=IW9tx2VwDf0",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2021-12-03",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Quantidades ajustadas por pessoa e natas em vez de creme de leite. Pré-cozemos a batata para cozer por igual. Esta versão da publicação não inclui o caril de outra receita do mesmo canal."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-coxas-maionese-batata",
+      "title": "Coxas de frango com batata e maionese",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=JK__-iHmcY8",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2021-09-18",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Coxas pesadas com osso. Definimos o peso da batata e reduzimos a maionese em relação à proporção publicada; a fonte não fornece método textual."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-panquecas-frango-queijo",
+      "title": "Panquecas salgadas de frango e queijo",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=qyeNmGMK0zs",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-04-14",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Método de panquecas pequenas definido por nós a partir dos ingredientes públicos. Óleo e salada acrescentados e contabilizados; frango sempre pesado cru."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-empadao-frango-calabresa",
+      "title": "Empadão cremoso de frango e calabresa",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=dBn7ZeaMqXM",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-06-22",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Frango e batata pesados em cru; peito cozido de raiz em vez de sobras. Queijo creme substitui requeijão cremoso brasileiro. A calabresa tem ingrediente e preço próprios, sem confusão com linguiça fresca."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-vaca-batata-tomate",
+      "title": "Batatas gratinadas com carne e tomate",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=sHxd_HqCImM",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2023-01-02",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos carne picada de vaca para a carne moída não especificada. Tomate pelado substitui molho pronto e definimos as doses de queijo e azeitonas; o método é nosso."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-tiras-vaca-soja",
+      "title": "Tiras de vaca com molho de soja",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=pSS__PSIYP8",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2023-03-06",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos bife de vaca para a carne em tiras da fonte, sem a confundir com carne picada. Reduzimos o molho de soja e acrescentámos arroz; cheiro-verde escolhido como salsa."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-vaca-pure-cremoso",
+      "title": "Empadão cremoso de vaca e pimento",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=iPfbmje6z0U",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-03-21",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos vaca e definimos a montagem e as quantidades. Queijo creme substitui requeijão cremoso brasileiro, natas substituem creme de leite, tomate pelado substitui molho pronto e curcuma interpreta o açafrão-da-terra."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-rolinhos-carne-batata",
+      "title": "Rolinhos de carne e batata recheados",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=qzLoJ957l78",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-05-17",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. A descrição só fornece ingredientes: definimos pequenos rolos recheados e o método de forno. Escolhemos vaca, pesamos batata em cru e usamos queijo creme em vez de requeijão cremoso brasileiro e tomate pelado em vez de molho pronto."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-parmegiana-carne-batata",
+      "title": "Gratinado de carne, batata e fiambre",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=x85ey2FGrow",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2021-02-25",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos vaca para a carne moída. Salsa, alho e orégãos substituem a mistura chimichurri não especificada; tomate pelado substitui molho pronto. O presunto brasileiro é representado por fiambre, não presunto curado português."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-panquecas-carne",
+      "title": "Crepes de carne picada gratinados",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=8pu4WfpDdYA",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-02-15",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos vaca, quantificámos queijo e molho e usámos tomate pelado em vez de molho pronto. O método de crepes é nosso para os ingredientes públicos; no Brasil são chamados panquecas."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-empadao-vaca-classico",
+      "title": "Empadão de vaca com puré de leite",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=BV_6o3Qv-h0",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-11-15",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos vaca e pesámos batata em cru, em vez do peso cozido e esmagado publicado. A proporção de puré e queijo foi ajustada para uma pessoa; o método é adaptação nossa."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-polenta-vaca",
+      "title": "Polenta cremosa com carne de vaca",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=b8FnkAIpQQg",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-07-10",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos vaca. Sêmola de milho para polenta substitui o fubá brasileiro, com tempo e água ajustados à embalagem; tomate pelado substitui molho pronto e curcuma interpreta o açafrão-da-terra."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-empadao-vaca-azeitonas",
+      "title": "Empadão de vaca com azeitonas",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=Pc9vwl-7xzU",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-01-06",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos vaca, batata em cru e natas em vez de creme de leite. Quantificámos os aromáticos e reduzimos as duas camadas de queijo; o método de montagem é nosso."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-arroz-frango-forno-legumes",
+      "title": "Arroz de forno com frango e legumes",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=Qmlr6U5NHeQ",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2021-11-19",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Arroz e frango pesados em cru e cozidos de raiz. Cenoura, ervilha e milho são a seleção de legumes que definimos para a seleta genérica da fonte; tomate pelado substitui molho pronto e fiambre representa presunto brasileiro."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-arroz-fiambre-cremoso",
+      "title": "Arroz cremoso de fiambre no forno",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=V3FnmHIWq18",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2022-04-08",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Arroz pesado em cru, cozido de raiz. Fiambre representa presunto brasileiro; queijo creme substitui requeijão cremoso e natas substituem creme de leite. Reduzimos o queijo e definimos doses de prato principal."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-arroz-linguica-queijo",
+      "title": "Arroz de linguiça com queijo cremoso",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=XOL3aUvYc8Y",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-05-19",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos linguiça fresca para a linguiça sem especificação desta publicação. Queijo creme substitui requeijão cremoso brasileiro; quantificámos arroz em cru e restante queijo."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-arroz-linguica-simples",
+      "title": "Arroz de linguiça e tomate",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=PzjdnT0qa4k",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-07-25",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Escolhemos linguiça calabresa fumada para a linguiça pré-cozida indicada na fonte; é um ingrediente diferente da linguiça fresca da outra versão. Arroz em cru e quantidades por pessoa definidos por nós."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-arroz-preguicoso",
+      "title": "Arroz de forno de linguiça e cenoura",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=ytKCkQzxdDI",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2024-09-20",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Preparação pública resumida e adaptada por nós. Água e os legumes substituem caldo de carne de composição desconhecida. Natas substituem creme de leite e tomate pelado substitui molho pronto. A quantidade de água adapta-se à assadeira; não acrescentámos queijo, ausente da fonte."
+      }
+    },
+    {
+      "recipeId": "criador-receituando-omelete-forno-frango-fiambre",
+      "title": "Omelete de forno com frango e fiambre",
+      "creator": "receituando",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.youtube.com/watch?v=1DhvkXUuErA",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2021-08-20",
+        "credit": "Receituando Master",
+        "adaptation": "Doses por pessoa e quantidades não especificadas na publicação definidas por nós. Ingredientes verificados na descrição pública; preparação escrita por nós como adaptação para o planeador. Frango pesado em cru e cozido de raiz; fiambre representa presunto brasileiro. Queijo creme substitui requeijão cremoso e o azeite para untar é contabilizado. Método e doses definidos por nós; contém frango e porco além dos ovos."
+      }
+    },
+    {
+      "recipeId": "criador-gil-nicoise",
+      "title": "Salada Niçoise de atum e ovo",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/salade-nicoise",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-09-02",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Escolhemos a conserva de atum que o autor propõe como alternativa ao bonito confitado. O atum e as anchovas pesam-se escorridos. Doses de refeição, um ovo por pessoa e pão definidos por nós; não fazemos conservas caseiras."
+      }
+    },
+    {
+      "recipeId": "criador-gil-lulas-nduja",
+      "title": "Lulas grelhadas com manteiga de nduja",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/grilled-squid-and-nduja-butter",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-15",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Receita de Gil a partir de Silvain Roucayrol. Transformámos a entrada em refeição com batata, lulas já limpas e menos manteiga e nduja por dose. Incluímos a marinada refrigerada de 45 minutos no tempo total; a chapa é substituída por frigideira e cozinhamos a lula por inteiro."
+      }
+    },
+    {
+      "recipeId": "criador-gil-katsu",
+      "title": "Katsu de pescada com caril japonês",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/curry-katsu-with-yellowtail-cutlets",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-08-05",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "O original usa yellowtail e permite mudar a proteína: escolhemos pescada. Pesos de peixe, arroz e panado definidos para uma refeição. Quantificámos o óleo para fritura pouco funda e omitimos os molhos de acabamento katsu e Kewpie; o caril em bloco e o molho de peixe mantêm-se."
+      }
+    },
+    {
+      "recipeId": "criador-gil-halibute-harissa",
+      "title": "Halibute assado com harissa e batata",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/halibut-and-harissa-beurre-blanc",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-06-28",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Criação de Gil com Amine Laabi. Usamos filetes de halibute em vez de cauda inteira, alho-francês em vez de hastes de alho e salsa com limão fresco em vez do conjunto de ervas, limão conservado e sumagre. Reduzimos a manteiga por dose, usamos natas como alternativa indicada e acrescentamos batata. Assamos até o peixe estar totalmente cozinhado."
+      }
+    },
+    {
+      "recipeId": "criador-gil-bife-dauphine",
+      "title": "Bife com pommes dauphines de trigo-sarraceno",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/koji-t-bone",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-06-26",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Receita de Gil com Robin/Gargantua. Seguimos a alternativa sem koji expressamente permitida, com bife de vaca sem osso em vez de T-bone. Mantemos as pommes dauphines de trigo-sarraceno; o acompanhamento de cogumelos e natas é nosso e substitui integralmente o demi-glace com dashi. Não usamos fermentação nem apresentamos este molho como original."
+      }
+    },
+    {
+      "recipeId": "criador-gil-carabineiros-sal",
+      "title": "Carabineiros no sal com pão e salada",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/how-to-eat-carabineros",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-06-04",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Mantemos a técnica de carabineiros inteiros sobre sal, com peso em cru incluindo cabeça e casca. Juntámos pão e salada para refeição. O sal listado é a camada de confeção que será descartada, não uma dose de sal para comer. Não usamos as variantes cruas mencionadas no artigo."
+      }
+    },
+    {
+      "recipeId": "criador-gil-camarao-guilho",
+      "title": "Camarão à guilho de Gil",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/portuguese-garlic-shrimps",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-05-20",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "A entrada passa a refeição com pão e salada acrescentados por nós. Miolo de camarão pesado já descascado; definimos por dose as quantidades de vinho e gordura, menores do que a preparação original para partilhar. O pimentão fumado e o acabamento de coentros mantêm-se."
+      }
+    },
+    {
+      "recipeId": "criador-gil-cavala-salsa",
+      "title": "Cavala grelhada com molho de salsa",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/catch-and-cook-ep2",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-03-27",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Usamos filetes de cavala fresca e frigideira em vez de peixe inteiro no barbecue. Sem maturação caseira, que o autor considera opcional. Acrescentámos batata e reduzimos a quantidade de molho por dose; cozinhamos a cavala por inteiro em vez da variante mal passada."
+      }
+    },
+    {
+      "recipeId": "criador-gil-pregado-caril",
+      "title": "Pregado com beurre blanc de caril",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/turbot-and-spices",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-03-18",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Filetes de pregado pesados sem espinhas em vez de peixe inteiro. Doses, óleo de fritura e molho definidos por nós, com menos manteiga. Omitimos a cura de sal/açúcar e a xantana opcional. Cortamos a batata com faca e cozinhamos o peixe completamente; mantemos caril e pimentão fumado."
+      }
+    },
+    {
+      "recipeId": "criador-gil-cavala-fumada-batata",
+      "title": "Cavala fumada com batata e picles rápidos",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/french-bistro-classics-ep7",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-02-25",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Escolhemos a cavala fumada que o autor sugere em alternativa ao arenque. Quantificámos a batata, ausente da lista de ingredientes mas presente no método. Cozemos em água e finalizamos com azeite em vez de confitar submersa em óleo. Iogurte em vez de crème fraîche e um ovo por pessoa são ajustes nossos; picles rápidos para consumo imediato."
+      }
+    },
+    {
+      "recipeId": "criador-gil-linguado-meuniere",
+      "title": "Linguado meunière com arroz de alho",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/french-bistro-classics-ep5",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-02-10",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Usamos filetes de linguado sem pele e espinhas em vez de um peixe inteiro. Farinha e manteiga em doses menores definidas por nós. O arroz de alho é a sugestão de acompanhamento do autor, preparado de raiz; omitimos o molho de peixe opcional e simplificámos a apresentação."
+      }
+    },
+    {
+      "recipeId": "criador-gil-pizzaladiere",
+      "title": "Pizzaladière de anchovas e cebola",
+      "creator": "gil",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://giltreatsgil.substack.com/p/the-pizzaladiere",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-01-18",
+        "credit": "Gil · gil.treats.gil",
+        "adaptation": "Mantemos a massa fermentada de véspera, incluindo cerca de 24 horas de frio e 2 horas fora do frigorífico no tempo total. Doses de cebola, gordura, mel e anchovas pesadas por nós; salsa em vez de estragão. Acrescentamos salada. Não apresentamos esta preparação como uma refeição pronta em 30 minutos."
+      }
+    },
+    {
+      "recipeId": "criador-jucy-panquecas-carne",
+      "title": "Panquecas de carne com creme de batata",
+      "creator": "jucy",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.instagram.com/p/Dec55nkMK6n/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "Jucyléia C. Machado",
+        "adaptation": "A legenda pública fornece massa e molho de batata, mas não publica o recheio. O recheio de carne picada com tomate é inteiramente nosso. Convertemos as medidas caseiras em pesos próprios por pessoa, com menos fermento e molho, e juntámos queijo para gratinar; estas doses não são uma transcrição da receita da criadora."
+      }
+    },
+    {
+      "recipeId": "criador-jucy-massa-caprese-frango",
+      "title": "Massa caprese com frango grelhado",
+      "creator": "jucy",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.instagram.com/p/DepeLGIM0oP/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "Jucyléia C. Machado",
+        "adaptation": "A legenda publica ingredientes da massa caprese; a preparação é remetida para o vídeo. O método de tacho abaixo e o frango grelhado são nossos. Trocámos óleo de coco fumado por azeite, requeijão brasileiro e mozzarella de búfala por queijo ralado e parmesão, com pesos definidos para uma refeição. A receita original da massa não inclui frango."
+      }
+    },
+    {
+      "recipeId": "criador-jucy-kafta-tabule",
+      "title": "Kafta com pão de frigideira e tabule",
+      "creator": "jucy",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://receitas.band.com.br/masterchef/receita/kafta-com-tabule-vinagrete-e-coalhada-band-receitas-id-16346",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "Jucyléia C. Machado",
+        "adaptation": "Receita pública da participação de Jucyléia no MasterChef Brasil. A ficha indica três porções, mas definimos pesos de refeição por pessoa para a carne, pão e tabule e quantificámos os temperos sem dose. Iogurte natural em vez de coalhada, bulgur em vez de trigo para quibe e limão em peso inteiro. Simplificámos o vinagrete numa salada de tabule."
+      }
+    },
+    {
+      "recipeId": "criador-jucy-bife-cogumelos",
+      "title": "Bife com creme de cogumelos e café",
+      "creator": "jucy",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://receitas.band.com.br/masterchef/receita/bife-ancho-com-creme-de-cogumelos-band-receitas-id-16563",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "Jucyléia C. Machado",
+        "adaptation": "Ficha do MasterChef Brasil. Substituímos o corte ancho por bife de vaca, sem usar o preço de carne picada. Usamos cenoura, curgete e tomate comuns em vez de minilegumes e café solúvel em vez de expresso; doses de legumes e temperos definidas por nós. Omitimos a decoração de cebola frita e ajustámos a assadura da abóbora à espessura dos cubos."
+      }
+    },
+    {
+      "recipeId": "criador-jucy-pato-laranja",
+      "title": "Peito de pato com laranja e puré",
+      "creator": "jucy",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://receitas.band.com.br/masterchef/receita/magret-de-pato-com-mousseline-de-batata-band-receitas-id-16438",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "Jucyléia C. Machado",
+        "adaptation": "Receita pública do MasterChef Brasil. Quantificámos o peito de pato e os frutos em cru por pessoa. Servimos toda a batata como puré, omitindo as bolinhas de batata com gema e parmesão da outra metade da guarnição. Pimenta preta em vez de rosa; finalização no forno e tempos de confeção ajustados por nós."
+      }
+    },
+    {
+      "recipeId": "criador-jucy-paella-mar",
+      "title": "Paella de polvo, lulas e camarão",
+      "creator": "jucy",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://receitas.band.com.br/masterchef/receita/paella-de-frutos-do-mar-band-receitas-id-16623",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "Jucyléia C. Machado",
+        "adaptation": "Ficha do MasterChef Brasil. A lista tem uma espécie de marisco omissa: escolhemos mexilhão por nossa iniciativa. Cozemos polvo cru numa panela normal, em vez dos 12 minutos sob pressão da fonte, e incluímos esse tempo no total. Camarão já descascado, pesos de marisco e arroz por pessoa e volumes de caldo definidos por nós; não equiparamos o preço de polvo cozido ao de cru."
+      }
+    },
+    {
+      "recipeId": "criador-jucy-lagostim-cremes",
+      "title": "Lagostim com puré e creme de cogumelos",
+      "creator": "jucy",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://receitas.band.com.br/masterchef/receita/lagostim-aos-cremes-band-receitas-id-16682",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "Jucyléia C. Machado",
+        "adaptation": "Receita pública do MasterChef Brasil. Usamos batata branca em vez de roxa, cogumelos comuns em vez de shimeji e quantificamos lagostins inteiros em cru, antes de limpar. Doses de natas, manteiga e frutos secos definidas por nós. A castanha-do-brasil é um fruto de casca rija e mantém-se no creme; não é castanha portuguesa."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-hamburguer-batata-doce",
+      "title": "Hambúrguer em tortilhas de batata-doce e cenoura",
+      "creator": "foodies",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.instagram.com/p/DejCQq2uDSm/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "A receita está integralmente na legenda pública. Convertida em duas doses: pesámos a batata-doce e a cenoura e fizemos uma guacamole simples de abacate e limão. Alho fresco em vez de alho em pó; quantidades dos temperos definidas por nós. Para o preço da polpa usamos abacate em cubos pronto a usar; descongela conforme a embalagem e prova antes de juntar sal."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-massa-curgete-feta",
+      "title": "Massa de curgete e feta com frango grelhado",
+      "creator": "foodies",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.instagram.com/p/DeeFE31KWhD/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Usamos apenas a receita pública do molho e da massa. Os panados mencionados na publicação pertencem ao livro e não foram usados: o frango grelhado é um acompanhamento criado por nós, incluído nas quantidades e no tempo. Definimos o peso dos legumes, feta, frango e azeite; alho fresco substitui alho em pó."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-wrap-frango-cottage",
+      "title": "Wrap de frango, ovo e cottage",
+      "creator": "foodies",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://pikory.com/tag/high-protein-wrap-recipes-for-breakfast",
+        "kind": "public-caption-index",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Legenda pública consultada num índice de publicações; a ligação original do Instagram ainda não foi confirmada. Índice Pikory. A legenda indica wrap, dois ovos, duas colheres de cottage, tomate, frango cozinhado e espinafres, com preparação na frigideira tapada. Pesos dos recheios e temperos definidos por nós. Cozemos o frango de raiz: o ingrediente e o tempo referem-se ao peso cru, não a sobras gratuitas."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-wrap-ovo-fiambre",
+      "title": "Tortilha de ovo com queijo e fiambre de frango",
+      "creator": "foodies",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://pikory.com/tag/high-protein-egg-wrap-ideas",
+        "kind": "public-caption-index",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Legenda pública consultada num índice de publicações; a ligação original do Instagram ainda não foi confirmada. Índice Pikory. A legenda publica um wrap, dois ovos, uma clara e os recheios opcionais; não descreve o método. Preparação na frigideira tapada criada por nós. Escolhemos queijo, fiambre de frango e tomate e definimos os seus pesos. A clara é contabilizada como 30 ml de clara pasteurizada."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-bacalhau-bras",
+      "title": "Bacalhau à Brás com cenoura e alho-francês",
+      "creator": "foodies",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://pikory.com/u/foodiesguide__/31366174242",
+        "kind": "public-caption-index",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-09-18",
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Legenda pública consultada num índice de publicações; a ligação original do Instagram ainda não foi confirmada. Índice Pikory, publicação de 18/09/2026. Convertida em duas doses de prato principal. O bacalhau indicado é já demolhado, sem pele e espinhas; a demolha não cabe nos 45 minutos. Pesos de cebola, alho-francês, azeitonas, azeite e temperos definidos por nós."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-salmao-cremoso",
+      "title": "Salmão cremoso de cottage e espinafres",
+      "creator": "foodies",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://pikory.com/tag/recette-avec-saumon-healthy",
+        "kind": "public-caption-index",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Legenda pública consultada num índice de publicações; a ligação original do Instagram ainda não foi confirmada. Índice Pikory. Usamos a opção pública de cottage batido com leite, sem natas. Definimos o peso dos lombos, leite e temperos e juntámos arroz para prato principal. Tomate comum em vez de cherry; tomate pelado triturado em vez de polpa pronta. O limão consta do método da legenda."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-lasanha-atum-wrap",
+      "title": "Lasanha de atum e legumes em wraps",
+      "creator": "foodies",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://pikory.com/tag/high-protein-lasagna-wrap-bake",
+        "kind": "public-caption-index",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Legenda pública consultada num índice de publicações; a ligação original do Instagram ainda não foi confirmada. Índice Pikory. A legenda fornece os ingredientes e a ordem das camadas, sem doses completas nem temperatura. Quantidades, tempos e cozedura a 180 °C definidos por nós. Usamos a opção de iogurte natural, cogumelos comuns em vez de portobello e tomate pelado esmagado em vez de polpa pronta."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-lasanha-curgete",
+      "title": "Lasanha de curgete, vaca e cottage",
+      "creator": "foodies",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://pictame.com/en/discover/hashtag/courtney-cook's-viral-recipe",
+        "kind": "public-caption-index",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Legenda pública consultada num índice de publicações; a ligação original do Instagram ainda não foi confirmada. Índice Pictame. Ingredientes e preparação estão na legenda pública indexada. Convertida em quatro doses; os pesos de legumes, leite e temperos foram definidos por nós. Escolhemos a opção de grelhar a curgete na frigideira e usamos tomate pelado triturado em vez de polpa pronta."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-brownie-batata-doce",
+      "title": "Brownie de batata-doce e cacau",
+      "creator": "foodies",
+      "mealType": "extra",
+      "quantityBasis": "one-extra-portion",
+      "source": {
+        "url": "https://www.instagram.com/p/DbNXNBPKQlc/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Legenda integral confirmada no Instagram. A receita inteira foi dividida por seis porções pequenas. Usamos a alternativa pública de leite em pó magro e omitimos adoçante e pepitas opcionais. Os 65 minutos incluem cozedura no micro-ondas, forno e arrefecimento breve; não é um almoço ou jantar."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-muffins-cottage",
+      "title": "Muffins de banana, cenoura e cottage",
+      "creator": "foodies",
+      "mealType": "extra",
+      "quantityBasis": "one-extra-portion",
+      "source": {
+        "url": "https://pikory.com/tag/cottage-cheese-oat-muffins-recipe",
+        "kind": "public-caption-index",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Legenda pública consultada num índice de publicações; a ligação original do Instagram ainda não foi confirmada. Índice Pikory. Receita pública com método completo; dividida por quatro porções. Escolhemos a alternativa publicada de mais farinha de aveia em vez de proteína em pó: 110 g no total. Pesos da banana e da cenoura definidos por nós; omitidos chocolate e canela opcionais. Sem promessa de macronutrientes."
+      }
+    },
+    {
+      "recipeId": "criador-foodies-panquecas-banana",
+      "title": "Panquecas de banana, aveia e cottage",
+      "creator": "foodies",
+      "mealType": "extra",
+      "quantityBasis": "one-extra-portion",
+      "source": {
+        "url": "https://pikory.com/tag/high-protein-oat-pancakes-recipe",
+        "kind": "public-caption-index",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "FOODIES by Carolina",
+        "adaptation": "Legenda pública consultada num índice de publicações; a ligação original do Instagram ainda não foi confirmada. Índice Pikory. Mantemos banana, farinha de aveia e a opção cottage indicados na legenda. Convertimos as colheres em 30 g de farinha e 60 g de cottage; esses pesos e o tempo total são estimativas nossas. Chocolate opcional omitido. Não substitui uma refeição principal."
+      }
+    },
+    {
+      "recipeId": "criador-hyzer-mini-quiches",
+      "title": "Mini quiches de bacon e espinafres",
+      "creator": "hyzer",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.tiktok.com/@hyzer_tc/video/7253530569370373402",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2023-07-08",
+        "credit": "Tiago Costa · Hyzer",
+        "adaptation": "Ingredientes e método verificados no vídeo original. Dividimos a base de oito ovos em doses de refeição com dois ovos por pessoa e pesámos os restantes ingredientes. Pimenta preta em vez de verde, queijo ralado corrente em vez de mozzarella específica; o pão e tomate de acompanhamento são nossos."
+      }
+    },
+    {
+      "recipeId": "criador-hyzer-folhados-alheira",
+      "title": "Folhados de alheira e queijo São Jorge",
+      "creator": "hyzer",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.tiktok.com/@hyzer_tc/video/7296244939397008673",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2023-10-31",
+        "credit": "Tiago Costa · Hyzer",
+        "adaptation": "Vídeo original de folhados de alheira de Mirandela e São Jorge. Doses, temperatura e tempo de forno definidos por nós para pequenos folhados bem cozinhados. Usamos alheira de carne e mantemos o queijo São Jorge como produto distinto. Salada simples de espinafres, tomate e pepino em vez da mistura selvagem com frutos secos e sésamo; vinagre de sidra em vez de balsâmico."
+      }
+    },
+    {
+      "recipeId": "criador-hyzer-esparguete-ovos",
+      "title": "Esparguete de tomate com ovos e queijo",
+      "creator": "hyzer",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.tiktok.com/@hyzer_tc/video/7694382529133972768",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-10-08",
+        "credit": "Tiago Costa · Hyzer",
+        "adaptation": "Vídeo original de esparguete com creme de tomate e mozzarella, ovos e presunto cozido trufado. As quantidades são nossas. Preparamos um molho de tomate pelado e natas em vez do creme pronto não identificado; queijo ralado em vez de mini mozzarella e fiambre de porco cozido em vez do produto trufado. Não apresentamos este molho caseiro como receita original do criador."
+      }
+    },
+    {
+      "recipeId": "criador-hyzer-tosta-frango",
+      "title": "Tosta mista de fiambre de frango",
+      "creator": "hyzer",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.tiktok.com/@hyzer_tc/video/7695131919813479713",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-10-10",
+        "credit": "Tiago Costa · Hyzer",
+        "adaptation": "A tosta foi verificada no vídeo original; não incluímos o iced latte do mesmo vídeo. Definimos quantidades de refeição e juntámos salada. Usamos frigideira tapada em vez de máquina de tostas e manteiga simples com parmesão e manjericão em vez dos temperos preparados. Fiambre de frango tem ingrediente e preço próprios, distintos de peito de frango cru."
+      }
+    },
+    {
+      "recipeId": "criador-kelvio-strogonoff",
+      "title": "Strogonoff de frango com arroz",
+      "creator": "kelvio",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.tiktok.com/@_kelvio_/video/7698310628896673057",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-10-19",
+        "credit": "Kelvio Januário · Kelvio, O Chefe",
+        "adaptation": "Episódio 2 da série para estudantes, com ingredientes e método no áudio público. O vídeo não indica o número de doses: todos os pesos por pessoa, temperos e acompanhamentos são nossos. Usamos mostarda Dijon como uma das alternativas mencionadas e tomate pelado em pedaços. Acrescentámos arroz branco, incluído na lista de compras; não acrescentámos cogumelos, ausentes desta preparação."
+      }
+    },
+    {
+      "recipeId": "criador-kelvio-bife-brocolos",
+      "title": "Bife com arroz de brócolos e couve-roxa",
+      "creator": "kelvio",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.tiktok.com/@_kelvio_/video/7697317899299523873",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-10-16",
+        "credit": "Kelvio Januário · Kelvio, O Chefe",
+        "adaptation": "O vídeo público mostra a composição de bife, arroz de brócolos e salada de couve-roxa e cenoura. A espécie e o corte da carne não são indicados no áudio: escolhemos bife de vaca e definimos todos os pesos. O arroz segue o método público do episódio 1 (TikTok 7696820519076662560), com cebola, azeite e louro. O molho da salada é nosso; omitimos a flambagem."
+      }
+    },
+    {
+      "recipeId": "criador-empadao-filo",
+      "title": "Empadão crocante de carne e abóbora",
+      "creator": "pitada",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.apitadadopai.com/empadao-frango-crocante/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-10-14",
+        "credit": "A Pitada do Pai · Inês Aguiar",
+        "adaptation": "Usamos a alternativa de carne picada indicada na fonte. Doses de prato principal, alho fresco e quantidades de massa e temperos definidos por nós."
+      }
+    },
+    {
+      "recipeId": "criador-mac-cheese",
+      "title": "One pot de vaca, abóbora e queijo",
+      "creator": "pitada",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.apitadadopai.com/one-pot-mac-cheese-com-carne-picada-e-abobora/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2025-10-20",
+        "credit": "A Pitada do Pai · Inês Aguiar",
+        "adaptation": "Quantidades ajustadas para prato principal. O tomate pelado cozinha no tacho em vez de usar molho pronto. Usamos alho fresco e mais tempo para o refogado."
+      }
+    },
+    {
+      "recipeId": "criador-quesadillas",
+      "title": "Quesadillas de frango e queijo",
+      "creator": "pitada",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.apitadadopai.com/quesadillas-mexicanas/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-06-23",
+        "credit": "A Pitada do Pai · Inês Aguiar",
+        "adaptation": "Cozemos o peito de frango de raiz e douramos na frigideira. Usamos limão em vez de lima e tomate e pepino em vez de abacate. Doses aumentadas para refeição."
+      }
+    },
+    {
+      "recipeId": "criador-frango-aveia",
+      "title": "Frango crocante de aveia e parmesão",
+      "creator": "pitada",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.apitadadopai.com/peito-frango-crosta-aveia-limao-parmesao/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-02-06",
+        "credit": "A Pitada do Pai · Inês Aguiar",
+        "adaptation": "Peitos grandes convertidos em peso por pessoa. Juntámos arroz e brócolos para formar uma refeição completa; estes acompanhamentos entram no custo."
+      }
+    },
+    {
+      "recipeId": "criador-empadao-frango",
+      "title": "Empadão de frango com puré de abóbora",
+      "creator": "pitada",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.apitadadopai.com/empadao-carne/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-03-02",
+        "credit": "A Pitada do Pai · Inês Aguiar",
+        "adaptation": "O recheio de frango segue os ingredientes da fonte, apesar do título genérico original. Pesamos batata e abóbora em cru e definimos as doses e o queijo opcional."
+      }
+    },
+    {
+      "recipeId": "criador-camarao-guilho",
+      "title": "Camarão à guilho com pão e salada",
+      "creator": "pitada",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://www.apitadadopai.com/camaroes-guilho-air-fryer/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": "2026-07-21",
+        "credit": "A Pitada do Pai · Inês Aguiar",
+        "adaptation": "Adaptado para miolo de camarão na frigideira. Juntámos pão, tomate e pepino para servir como refeição; o peso indicado é de camarão já descascado."
+      }
+    },
+    {
+      "recipeId": "criador-hamburguer-atum",
+      "title": "Hambúrguer de atum e feijão branco",
+      "creator": "clara",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://claradesousa.pt/receita/hamburguer-de-atum-com-vinagreta-de-limao/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "Clara de Sousa",
+        "adaptation": "Doses de prato principal e pão esfarelado em vez de pão ralado comprado. Servimos no pão com tomate e pepino; simplificámos a vinagreta sem mel."
+      }
+    },
+    {
+      "recipeId": "criador-tomatada",
+      "title": "Tomatada com ovos e pão de alho",
+      "creator": "clara",
+      "mealType": "main",
+      "quantityBasis": "one-main-course-person",
+      "source": {
+        "url": "https://claradesousa.pt/receita/tomatada-com-ovos-escalfados/",
+        "kind": "primary-public",
+        "checkedAt": "2026-10-20",
+        "publishedAt": null,
+        "credit": "Clara de Sousa",
+        "adaptation": "Usamos dois ovos por pessoa. Simplificámos as ervas para salsa e trocámos pimenta rosa por preta; o pão de alho é tostado na frigideira."
+      }
+    }
+  ],
+  "publicationsNotIntegrated": [
+    {
+      "creator": "terapia",
+      "title": "Poke Bowl em Casa",
+      "url": "https://www.youtube.com/watch?v=3eUF1VjWUK0",
+      "status": "insufficient-evidence",
+      "reason": "A descrição recolhida só contém a receita do arroz de sushi; faltam a proteína e os restantes ingredientes da bowl.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "receituando",
+      "title": "Pizza com massa de liquidificador",
+      "url": "https://www.youtube.com/watch?v=G847iLdTaJQ",
+      "status": "insufficient-evidence",
+      "reason": "Descrição com contactos e redes sociais, sem ingredientes ou preparação; não foi recolhida transcrição verificável.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "receituando",
+      "title": "Meio das asas de frango",
+      "url": "https://www.youtube.com/watch?v=XpaddTcL4Yc",
+      "status": "insufficient-evidence",
+      "reason": "Descrição com contactos e redes sociais, sem ingredientes ou preparação; não foi recolhida transcrição verificável.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "receituando",
+      "title": "Molho branco cremoso",
+      "url": "https://www.youtube.com/watch?v=eKyp_mrFb18",
+      "status": "insufficient-evidence",
+      "reason": "Descrição sem ingredientes ou preparação e receita de molho, não de prato principal.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jamon",
+      "title": "Crepes de francesinha",
+      "url": "https://www.youtube.com/watch?v=xyKCyT0XGPA",
+      "status": "insufficient-evidence",
+      "reason": "Descrição vazia; ligação para legendas não equivale a transcrição recolhida.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jamon",
+      "title": "Programa Casa Feliz",
+      "url": "https://www.youtube.com/watch?v=eVdTIx3fLko",
+      "status": "insufficient-evidence",
+      "reason": "Descrição promocional sem receita; não foi recolhida transcrição verificável.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jamon",
+      "title": "Bacalhau à Gomes de Sá",
+      "url": "https://www.youtube.com/watch?v=Tzwpl5PVHRA",
+      "status": "insufficient-evidence",
+      "reason": "Descrição vazia e sem transcrição verificável para verificar ingredientes.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jamon",
+      "title": "Bacalhau sem natas",
+      "url": "https://www.youtube.com/watch?v=Kvm-hHrDFZ0",
+      "status": "insufficient-evidence",
+      "reason": "Descrição vazia e sem transcrição verificável para verificar ingredientes.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jamon",
+      "title": "Sonhos de francesinha",
+      "url": "https://www.youtube.com/watch?v=l5EY_fWKxNM",
+      "status": "insufficient-evidence",
+      "reason": "Descrição vazia e sem transcrição verificável para verificar ingredientes.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jamon",
+      "title": "Waffle de francesinha",
+      "url": "https://www.youtube.com/watch?v=4UjrQJWAigI",
+      "status": "insufficient-evidence",
+      "reason": "Descrição apenas com ligação ao Instagram, sem ingredientes ou preparação.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jamon",
+      "title": "Bola de Berlim de francesinha",
+      "url": "https://www.youtube.com/watch?v=_-kS3X0Mh0Y",
+      "status": "insufficient-evidence",
+      "reason": "Descrição promocional sem ingredientes ou preparação.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jamon",
+      "title": "Pataniscas de polvo na RTP",
+      "url": "https://www.youtube.com/watch?v=o3miNAXaQxc",
+      "status": "insufficient-evidence",
+      "reason": "Descrição promocional e redes sociais; sem ingredientes ou transcrição verificável.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jamon",
+      "title": "Receita no programa Dois às 10",
+      "url": "https://www.youtube.com/watch?v=tqipc8E1Y7M",
+      "status": "insufficient-evidence",
+      "reason": "Descrição refere massa com frango, mas não fornece lista de ingredientes nem preparação.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "receituando",
+      "title": "Arroz com linguiça",
+      "url": "https://www.youtube.com/watch?v=jreidWbGMH4",
+      "status": "insufficient-evidence",
+      "reason": "Descrição apenas com hashtags, contactos e redes sociais; sem ingredientes ou método. Existem outras versões verificáveis do mesmo criador integradas, sem atribuir os seus ingredientes a este vídeo.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "Greek Sun-dried Octopus",
+      "url": "https://giltreatsgil.substack.com/p/greek-sun-dried-octopus",
+      "status": "excluded",
+      "reason": "Processo tradicional de secagem ao ar durante cerca de dois dias; não convertido numa instrução doméstica de planeamento semanal.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "Dadinhos de Tapioca",
+      "url": "https://giltreatsgil.substack.com/p/dadinhos-de-tapioca",
+      "status": "excluded",
+      "reason": "Entrada de tapioca com tártaro de carabineiro e maionese de ovo cru; não é uma refeição completa cozinhada.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "FRENCH BISTRO is Back!",
+      "url": "https://giltreatsgil.substack.com/p/french-bistro-is-back",
+      "status": "excluded",
+      "reason": "Anúncio de série e menus. A única preparação completa é uma base de demi-glace, não uma refeição.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "Tuna tartare, Bone marrow",
+      "url": "https://giltreatsgil.substack.com/p/tuna-tartare-bone-marrow",
+      "status": "excluded",
+      "reason": "Entrada de atum cru e medula, com maionese crua; não adaptada como refeição de marmita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "Tasca Portuguesa",
+      "url": "https://giltreatsgil.substack.com/p/tasca-portuguesa",
+      "status": "excluded",
+      "reason": "Artigo sobre tascas e anúncio de pratos de uma série; não publica fichas completas desses pratos.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "CRUDO101, Ep.8",
+      "url": "https://giltreatsgil.substack.com/p/crudo101-ep8",
+      "status": "excluded",
+      "reason": "Peixe maturado em casa durante dois a quatro dias e apenas maçaricado; não convertido numa refeição cozinhada.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "CRUDO101 S2, Ep.4",
+      "url": "https://giltreatsgil.substack.com/p/crudo101-s2-ep4",
+      "status": "excluded",
+      "reason": "Amuse-bouche de ouriço cru com pomme dauphine e maionese; não é uma refeição principal.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "TREAT YOUR FISH",
+      "url": "https://giltreatsgil.substack.com/p/treat-your-fish",
+      "status": "excluded",
+      "reason": "Artigo técnico de escolha, conservação e maturação de peixe; não é uma ficha de refeição.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "CRUDO101 Series Is out! ",
+      "url": "https://giltreatsgil.substack.com/p/crudo101-series-is-out",
+      "status": "excluded",
+      "reason": "Anúncio de temporada e lista de pratos, sem fichas completas.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "Popup Notes, Ep.1",
+      "url": "https://giltreatsgil.substack.com/p/popup-notes-ep1",
+      "status": "excluded",
+      "reason": "Relato de menu de evento; descreve pratos mas não fornece receitas completas com ingredientes e preparação.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "FRENCH BISTRO",
+      "url": "https://giltreatsgil.substack.com/p/french-bistro",
+      "status": "excluded",
+      "reason": "Anúncio de série; o método completo corresponde a demi-glace, uma base culinária e não uma refeição.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "Yukhoe, kind of ! ",
+      "url": "https://giltreatsgil.substack.com/p/yukhoe-kind-of",
+      "status": "excluded",
+      "reason": "Tártaro de vaca com gema crua; não incluído nas refeições cozinhadas.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "gil",
+      "title": "How I cook",
+      "url": "https://giltreatsgil.substack.com/p/how-i-cook",
+      "status": "excluded",
+      "reason": "Apresentação biográfica do criador e do projeto, sem receita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jucy",
+      "title": "Dem73ryhxzZ",
+      "url": "https://www.instagram.com/p/Dem73ryhxzZ/",
+      "status": "excluded",
+      "reason": "Dica sobre pipocas; não é uma refeição de almoço ou jantar.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jucy",
+      "title": "DeiDyPVMoVD",
+      "url": "https://www.instagram.com/p/DeiDyPVMoVD/",
+      "status": "excluded",
+      "reason": "Publicação de aniversário, sem receita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jucy",
+      "title": "DeSieAgAViI",
+      "url": "https://www.instagram.com/p/DeSieAgAViI/",
+      "status": "excluded",
+      "reason": "Sugestões sobre arroz sem ingredientes nem método completo na legenda recolhida.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jucy",
+      "title": "DePuvMHBCv0",
+      "url": "https://www.instagram.com/p/DePuvMHBCv0/",
+      "status": "excluded",
+      "reason": "Publicidade a roupa de casa, sem receita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jucy",
+      "title": "Baião de dois com vinagrete de caju",
+      "url": "https://receitas.band.com.br/masterchef/receita/baiao-de-dois-com-vinagrete-de-caju-band-receitas-id-16315",
+      "status": "insufficient-source",
+      "reason": "A página devolveu HTTP 403, sem ficha verificável suficiente para a integração.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "jucy",
+      "title": "Língua bovina com bolinho de macarrão e vinagrete",
+      "url": "https://receitas.band.com.br/masterchef/receita/lingua-bovina-com-bolinho-de-macarrao-e-vinagrete-band-receitas-id-16713",
+      "status": "insufficient-source",
+      "reason": "A página devolveu HTTP 403, sem ficha verificável suficiente para a integração.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "foodies",
+      "title": "Promoção de livros ou plano de refeições",
+      "url": "https://www.instagram.com/p/DetMai1OkQJ/",
+      "status": "incomplete",
+      "reason": "A legenda remete para livros e não contém ingredientes e preparação suficientes; não foi usado conteúdo pago.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "foodies",
+      "title": "Promoção de livros ou plano de refeições",
+      "url": "https://www.instagram.com/p/DepWnlJsVV4/",
+      "status": "incomplete",
+      "reason": "A legenda remete para livros e não contém ingredientes e preparação suficientes; não foi usado conteúdo pago.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "foodies",
+      "title": "Promoção de livros ou plano de refeições",
+      "url": "https://www.instagram.com/p/Deluvs4Ob5t/",
+      "status": "incomplete",
+      "reason": "A legenda remete para livros e não contém ingredientes e preparação suficientes; não foi usado conteúdo pago.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "foodies",
+      "title": "Promoção de livros ou plano de refeições",
+      "url": "https://www.instagram.com/p/DegcTU6KfNo/",
+      "status": "incomplete",
+      "reason": "A legenda remete para livros e não contém ingredientes e preparação suficientes; não foi usado conteúdo pago.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "vasco",
+      "title": "Nenhuma experiência é única",
+      "url": "https://www.instagram.com/p/Dehc8ycCB6T/",
+      "status": "not-a-recipe",
+      "reason": "Legenda sem ingredientes e método de uma receita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "vasco",
+      "title": "Dos meus favoritos",
+      "url": "https://www.instagram.com/p/DeSDj_ri7IY/",
+      "status": "not-a-recipe",
+      "reason": "Legenda sem ingredientes e método de uma receita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "vasco",
+      "title": "Não desejo isto a ninguém",
+      "url": "https://www.instagram.com/p/Dd_7XI4i1xM/",
+      "status": "not-a-recipe",
+      "reason": "Legenda sem ingredientes e método de uma receita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "vasco",
+      "title": "Viagem ao México",
+      "url": "https://www.instagram.com/p/DeHyNrugvLc/",
+      "status": "not-a-recipe",
+      "reason": "Legenda sem ingredientes e método de uma receita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "vasco",
+      "title": "Jetski",
+      "url": "https://www.instagram.com/p/DeFMH4WtJCG/",
+      "status": "not-a-recipe",
+      "reason": "Legenda sem ingredientes e método de uma receita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "vasco",
+      "title": "Publicidade de cosmética",
+      "url": "https://www.instagram.com/p/Dd9aqPpC0qN/",
+      "status": "not-a-recipe",
+      "reason": "Legenda sem ingredientes e método de uma receita.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "carlos",
+      "title": "Bali em Portugal",
+      "url": "https://www.instagram.com/p/DepDATdIMft/",
+      "status": "not-a-recipe",
+      "reason": "A legenda descreve uma visita ou promoção; não fornece uma receita do autor.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "carlos",
+      "title": "Restaurante chinês em Lisboa",
+      "url": "https://www.instagram.com/p/Dee7i21xoaq/",
+      "status": "not-a-recipe",
+      "reason": "A legenda descreve uma visita ou promoção; não fornece uma receita do autor.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "carlos",
+      "title": "Febras a metro",
+      "url": "https://www.instagram.com/p/DeZzDo_x0Ud/",
+      "status": "not-a-recipe",
+      "reason": "A legenda descreve uma visita ou promoção; não fornece uma receita do autor.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "carlos",
+      "title": "Cortes de vaca num restaurante",
+      "url": "https://www.instagram.com/p/DeUn8CUonNY/",
+      "status": "not-a-recipe",
+      "reason": "A legenda descreve uma visita ou promoção; não fornece uma receita do autor.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "carlos",
+      "title": "Campanha comercial",
+      "url": "https://www.instagram.com/p/DeMwIPbonj0/",
+      "status": "not-a-recipe",
+      "reason": "A legenda descreve uma visita ou promoção; não fornece uma receita do autor.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "carlos",
+      "title": "Febras a metro, episódio 2",
+      "url": "https://www.instagram.com/p/DeKMup8IWft/",
+      "status": "not-a-recipe",
+      "reason": "A legenda descreve uma visita ou promoção; não fornece uma receita do autor.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "monica",
+      "title": "Remodelação da cozinha",
+      "url": "https://www.instagram.com/p/Der2nddEdzp/",
+      "status": "not-a-recipe",
+      "reason": "A legenda pública não contém uma ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "monica",
+      "title": "Pós-parto",
+      "url": "https://www.instagram.com/p/DefBAzoxW2A/",
+      "status": "not-a-recipe",
+      "reason": "A legenda pública não contém uma ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "monica",
+      "title": "Outono",
+      "url": "https://www.instagram.com/p/DeXd_MwkQoq/",
+      "status": "not-a-recipe",
+      "reason": "A legenda pública não contém uma ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "monica",
+      "title": "Quarto de criança",
+      "url": "https://www.instagram.com/p/DePnsWpI32r/",
+      "status": "not-a-recipe",
+      "reason": "A legenda pública não contém uma ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "monica",
+      "title": "Roupa e publicidade",
+      "url": "https://www.instagram.com/p/DeM9ZQFi_TA/",
+      "status": "not-a-recipe",
+      "reason": "A legenda pública não contém uma ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "monica",
+      "title": "Registo pessoal",
+      "url": "https://www.instagram.com/p/DeH5XQhlW3_/",
+      "status": "not-a-recipe",
+      "reason": "A legenda pública não contém uma ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "tascologo",
+      "title": "Frango de churrasco num snack-bar",
+      "url": "https://www.instagram.com/p/DepJBjMiWp9/",
+      "status": "not-a-recipe",
+      "reason": "Recomendação de restaurante ou produto, sem ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "tascologo",
+      "title": "Cabrito do restaurante O Seabra",
+      "url": "https://www.instagram.com/p/DeXD8kACUkn/",
+      "status": "not-a-recipe",
+      "reason": "Recomendação de restaurante ou produto, sem ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "tascologo",
+      "title": "Lançamento da Devora",
+      "url": "https://www.instagram.com/p/DeU7okhgmnR/",
+      "status": "not-a-recipe",
+      "reason": "Recomendação de restaurante ou produto, sem ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "tascologo",
+      "title": "Colaboração a fazer pão",
+      "url": "https://www.instagram.com/p/DeR_d0YsZL9/",
+      "status": "incomplete",
+      "reason": "A legenda não fornece ingredientes nem método; seria necessário verificar o vídeo.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "tascologo",
+      "title": "Restaurante O Fuso",
+      "url": "https://www.instagram.com/p/DeKbJ2JircI/",
+      "status": "not-a-recipe",
+      "reason": "Recomendação de restaurante ou produto, sem ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "tascologo",
+      "title": "Presuntaria Pata Negra",
+      "url": "https://www.instagram.com/p/Dd1zLD9KzlB/",
+      "status": "not-a-recipe",
+      "reason": "Recomendação de restaurante ou produto, sem ficha culinária.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "kelvio",
+      "title": "Montagem de dez marmitas",
+      "url": "https://www.tiktok.com/@_kelvio_/video/7698426343050005792",
+      "status": "insufficient-source",
+      "reason": "Publica composição e montagem de carne picada, bolonhesa e salmão, sem métodos completos dos pratos. É um anúncio do serviço, não três novas fichas verificadas.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "kelvio",
+      "title": "Magoga no Rumos",
+      "url": "https://www.rtp.pt/play/p16251/e952536/rumos",
+      "status": "insufficient-source",
+      "reason": "A página RTP atribui a sandes Magoga ao chef, mas não publica ingredientes ou preparação em texto. Não foi criada uma receita genérica a partir do nome.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "kelvio",
+      "title": "Participação no Bem-vindos",
+      "url": "https://www.rtp.pt/programa/tv/p48438/e52",
+      "status": "insufficient-source",
+      "reason": "A página confirma a presença na cozinha, sem nome de prato nem ficha de ingredientes.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "hyzer",
+      "title": "Desafio Dia do Pai · Bimbo",
+      "url": "https://www.youtube.com/watch?v=I3GCgGHp3r4",
+      "status": "insufficient-source",
+      "reason": "O vídeo da Bimbo é identificado como Tiago Hyzer. Descrição sem receita; a ligação oficial lechefbimbo.pt/desafio/3 não resolve DNS e as legendas não devolveram texto. Não se atribuem ao criador outras receitas genéricas da marca.",
+      "checkedAt": "2026-10-20"
+    }
+  ],
+  "supportingSources": [
+    {
+      "creator": "kelvio",
+      "title": "Arroz de brócolos · estudantes, episódio 1",
+      "url": "https://www.tiktok.com/@_kelvio_/video/7696820519076662560",
+      "status": "integrated-component",
+      "reason": "Método completo do arroz utilizado no prato de bife. O acompanhamento não é contado como outra receita principal.",
+      "recipeId": "criador-kelvio-bife-brocolos",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "kelvio",
+      "title": "Site oficial e canal YouTube",
+      "url": "https://kelvio-o-chefe.vercel.app/conteudo",
+      "status": "profile-verified",
+      "reason": "Confirma Instagram kelvio.antunes, TikTok _kelvio_ e YouTube Chef_Kelvio. O site apresenta serviços, sem fichas; o canal público mostrou quatro vlogs, sem receitas completas.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "hyzer",
+      "title": "Histórico do perfil público",
+      "url": "https://www.tiktok.com/@hyzer_tc",
+      "status": "limited-access",
+      "reason": "O perfil no browser mostra a biografia e pedido de login, sem grelha de vídeos para percorrer o arquivo. Não foi contornado o acesso.",
+      "checkedAt": "2026-10-20"
+    },
+    {
+      "creator": "kelvio",
+      "title": "Histórico do perfil público",
+      "url": "https://www.tiktok.com/@_kelvio_",
+      "status": "limited-access",
+      "reason": "O perfil no browser mostra a biografia e pedido de login. O embed público disponibilizou doze posts; os vídeos originais com receitas foram verificados individualmente.",
+      "checkedAt": "2026-10-20"
+    }
+  ]
+}

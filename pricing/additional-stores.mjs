@@ -1,4 +1,7 @@
-import catalogue from './additional-catalogue.mjs';
+import baseCatalogue from './additional-catalogue.mjs';
+import expandedCatalogue from './expanded-catalogue.mjs';
+
+const catalogue=[...baseCatalogue,...expandedCatalogue.filter(item=>item.store==='pingo-doce'&&!baseCatalogue.some(base=>base.store===item.store&&base.ingredientId===item.ingredientId))];
 
 const origins={'pingo-doce':'https://www.pingodoce.pt',lidl:'https://www.lidl.pt'};
 const entities={amp:'&',quot:'"',apos:"'",nbsp:' ',euro:'€',aacute:'á',eacute:'é',iacute:'í',oacute:'ó',uacute:'ú',atilde:'ã',otilde:'õ',ccedil:'ç',acirc:'â',ecirc:'ê',ocirc:'ô'};

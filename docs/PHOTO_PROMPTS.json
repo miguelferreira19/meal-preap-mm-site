@@ -3,216 +3,1237 @@
     "id": "quesadillas",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Subject: golden toasted wheat tortilla quesadillas cut into four triangles, visibly filled with shredded cooked chicken and melted mozzarella, with a little fresh tomato and cucumber salad on the same plate. Only these accompaniments; no avocado, no fries, no extra sauces.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/quesadillas",
+    "recipeIds": [
+      "criador-quesadillas"
+    ]
   },
   {
     "id": "beef-pasta",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Subject: a shallow bowl of short penne pasta coated in rich tomato sauce with finely minced beef, small cubes of tender orange pumpkin, and just-melted cheese. Clearly minced beef, no meatballs, no steak, no whole chicken. A comforting appealing one-pot meal.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/beef-pasta",
+    "recipeIds": [
+      "criador-mac-cheese"
+    ]
   },
   {
     "id": "chicken-mash-pie",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Subject: one generous serving of Portuguese chicken shepherd's pie, creamy golden potato and orange pumpkin mash on top, shredded white chicken and a few translucent onions visible along the cut side, lightly gratinated cheese on the top. Serve on a plate, not a whole baking dish. No pastry crust, no bread, no rice. Show the appetizing browned mash texture and creamy chicken filling.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/chicken-mash-pie",
+    "recipeIds": [
+      "criador-empadao-frango"
+    ]
   },
   {
     "id": "beef-bolognese",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: A generous twirl of spaghetti with a chunky minced beef, carrot and tomato bolognese sauce. No meatballs.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/beef-bolognese",
+    "recipeIds": [
+      "massa-bolonhesa"
+    ]
   },
   {
     "id": "beef-rice",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Portuguese moist long-grain rice with small browned crumbles of minced beef, diced carrot and green peas. No steak or meatballs.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/beef-rice",
+    "recipeIds": [
+      "arroz-vaca-legumes"
+    ]
   },
   {
     "id": "beef-mushrooms",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Juicy browned minced beef with sautéed sliced mushrooms and onion, beside a neat portion of white rice. Beef is visibly minced, not steak strips.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/beef-mushrooms",
+    "recipeIds": [
+      "tiras-vaca-cogumelos"
+    ]
   },
   {
     "id": "pork-roast",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Slices of golden oven-roasted lean pork loin with roasted potato wedges, sweet orange carrot pieces and garlic. Juicy pale pork inside.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/pork-roast",
+    "recipeIds": [
+      "porco-batata-forno"
+    ]
   },
   {
     "id": "pork-peppers",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Seared lean pork loin strips with red pepper and onion, served beside fluffy white rice.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/pork-peppers",
+    "recipeIds": [
+      "lombo-porco-arroz"
+    ]
   },
   {
     "id": "pork-rice",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Portuguese tomato rice with diced lean pork loin, green peas, carrot and onion. Tender pork cubes visible.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/pork-rice",
+    "recipeIds": [
+      "arroz-porco-ervilhas"
+    ]
   },
   {
     "id": "chicken-rice",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Portuguese chicken rice with tender small chicken breast pieces, green peas, diced carrot and onion, moist and fresh.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/chicken-rice",
+    "recipeIds": [
+      "arroz-frango-legumes"
+    ]
   },
   {
     "id": "lemon-chicken",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Golden oven-baked boneless chicken breast, sliced to show juicy cooked white meat, with golden roast potatoes, carrots and a lemon wedge.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/lemon-chicken",
+    "recipeIds": [
+      "frango-limao-forno",
+      "frango-airfryer"
+    ]
   },
   {
     "id": "chicken-pasta",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Short penne pasta with juicy chicken breast pieces, vivid green broccoli florets, garlic and a light olive oil coating. No cream.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/chicken-pasta",
+    "recipeIds": [
+      "massa-frango-brocolos"
+    ]
   },
   {
     "id": "chicken-chickpeas",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: A rich tomato stew of tender chicken breast pieces and chickpeas, served beside white rice.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/chicken-chickpeas",
+    "recipeIds": [
+      "frango-grao-tomate"
+    ]
   },
   {
     "id": "chicken-mushrooms",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Sliced cooked chicken breast in a light creamy mushroom and onion sauce, served with fluffy white rice.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/chicken-mushrooms",
+    "recipeIds": [
+      "frango-cogumelos",
+      "criador-terapia-frango-cogumelos"
+    ]
   },
   {
     "id": "tuna-pasta",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Short pasta generously coated in tomato sauce with flaked canned tuna, onion and garlic. No other seafood.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/tuna-pasta",
+    "recipeIds": [
+      "massa-atum-tomate"
+    ]
   },
   {
     "id": "tuna-chickpeas",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Fresh hearty chickpea salad with flaked canned tuna, ripe red tomato, cucumber and finely sliced onion in lemon olive oil dressing. No egg.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/tuna-chickpeas",
+    "recipeIds": [
+      "salada-grao-atum"
+    ]
   },
   {
     "id": "hake-stew",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Moist white hake fillet pieces in a light red tomato stew with potatoes, green peas and carrot. Skinless boneless white fish.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/hake-stew",
+    "recipeIds": [
+      "pescada-estufada"
+    ]
   },
   {
     "id": "hake-roast",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Two gently golden oven-baked skinless hake fillets, with roasted potato pieces, vivid broccoli, garlic and lemon.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/hake-roast",
+    "recipeIds": [
+      "pescada-forno-brocolos"
+    ]
   },
   {
     "id": "hake-chickpeas",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Tender cooked white hake fillet on a warm mixture of chickpeas, sautéed spinach, garlic and olive oil, with a lemon wedge.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/hake-chickpeas",
+    "recipeIds": [
+      "pescada-grao-espinafres"
+    ]
   },
   {
     "id": "tuna-rice",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Portuguese moist tomato rice with generous flakes of canned tuna and vivid green peas. No prawns or other fish.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/tuna-rice",
+    "recipeIds": [
+      "arroz-atum-tomate"
+    ]
   },
   {
     "id": "tuna-potato-salad",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Hearty cooked potato and flaked tuna salad with quartered boiled eggs, green peas and thin onion, lightly dressed with lemon olive oil.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/tuna-potato-salad",
+    "recipeIds": [
+      "salada-batata-atum"
+    ]
   },
   {
     "id": "eggs-tomato",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Two perfectly poached eggs nestled in a thick rustic red tomato and onion sauce, with two pieces of golden toasted garlic bread alongside. Fully set whites.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/eggs-tomato",
+    "recipeIds": [
+      "ovos-escalfados-tomate",
+      "criador-tomatada"
+    ]
   },
   {
     "id": "spinach-omelette",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Golden folded omelette with sliced mushrooms, spinach and melted cheese visible in the cut edge, beside two slices of toasted bread.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/spinach-omelette",
+    "recipeIds": [
+      "omeleta-cogumelos"
+    ]
   },
   {
     "id": "potato-tortilla",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: A thick wedge of Spanish potato and onion egg tortilla, beautifully golden, fully cooked inside with visible layered potato slices, beside fresh red tomato.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/potato-tortilla",
+    "recipeIds": [
+      "tortilha-batata"
+    ]
   },
   {
     "id": "egg-rice",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Golden fried rice with scrambled egg pieces, vivid green peas, diced carrot and onion, freshly cooked. No meat.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/egg-rice",
+    "recipeIds": [
+      "arroz-ovo-legumes"
+    ]
   },
   {
     "id": "vegetable-frittata",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: A generous wedge of golden baked egg frittata with courgette, red pepper, potato and melted cheese. Clearly an egg dish, not a pastry quiche.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/vegetable-frittata",
+    "recipeIds": [
+      "frittata-legumes"
+    ]
   },
   {
     "id": "eggs-beans",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Soft moist scrambled eggs and red kidney beans served on golden toasted bread, with fresh diced tomato alongside.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/eggs-beans",
+    "recipeIds": [
+      "ovos-feijao-tosta"
+    ]
   },
   {
     "id": "vegetable-soup-egg",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Silky orange potato carrot courgette soup in an ivory bowl, topped with two halves of a hard-boiled egg, with a slice of toasted bread alongside. Egg is the protein.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/vegetable-soup-egg",
+    "recipeIds": [
+      "creme-legumes-ovo"
+    ]
   },
   {
     "id": "tuna-baked-potato",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: A split oven-baked potato with fluffy interior generously filled with flaked canned tuna, diced red tomato and melted golden cheese.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/tuna-baked-potato",
+    "recipeIds": [
+      "batata-recheada-atum"
+    ]
   },
   {
     "id": "egg-pasta-salad",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Fresh short pasta salad with quartered hard-boiled eggs, green peas, cherry tomatoes and small cheese cubes, lightly dressed in olive oil and lemon.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/egg-pasta-salad",
+    "recipeIds": [
+      "massa-fria-ervilhas"
+    ]
   },
   {
     "id": "chicken-courgette",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Juicy golden chicken breast pieces sautéed with courgette half-moons and red pepper, served beside white rice.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/chicken-courgette",
+    "recipeIds": [
+      "frango-curgete-arroz"
+    ]
   },
   {
     "id": "prawn-rice",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Juicy pink peeled prawns in Portuguese tomato rice with green peas, onion and garlic. No shells, no mussels, no other seafood.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/prawn-rice",
+    "recipeIds": [
+      "arroz-camarao"
+    ]
   },
   {
     "id": "filo-beef-pie",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: One generous cut serving of a crunchy crinkled filo pastry pie, with minced beef, orange pumpkin cubes and red kidney beans visible under the thin golden ruffled pastry.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/filo-beef-pie",
+    "recipeIds": [
+      "criador-empadao-filo"
+    ]
   },
   {
     "id": "breaded-chicken",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Two crispy golden oat and parmesan breaded chicken breast strips, sliced to reveal juicy fully cooked white chicken, beside white rice and green broccoli.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/breaded-chicken",
+    "recipeIds": [
+      "criador-frango-aveia"
+    ]
   },
   {
     "id": "garlic-prawns",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Plump peeled pink prawns glistening with garlic olive oil sauce, flecks of coriander and tiny red chili, with crusty toasted bread, tomato and cucumber salad alongside.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/garlic-prawns",
+    "recipeIds": [
+      "criador-camarao-guilho",
+      "criador-terapia-gambas-alho",
+      "criador-gil-camarao-guilho"
+    ]
   },
   {
     "id": "tuna-burger",
     "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI.  Dish: Golden round homemade tuna and white bean fish burger in a rustic bread bun, with ripe tomato slices, cucumber and a little mustard lemon dressing. The patty is light golden tuna, not a dark beef burger.",
     "tool": "OpenAI ImageGen",
-    "generatedAt": "2026-10-20"
+    "generatedAt": "2026-10-20",
+    "asset": "assets/uniform/tuna-burger",
+    "recipeIds": [
+      "criador-hamburguer-atum"
+    ]
+  },
+  {
+    "id": "yt-pork-bean-stew",
+    "asset": "assets/expanded/yt-pork-bean-stew",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A comforting Portuguese feijoada: tender pork rib pieces and a few slices of red chouriço, pale butter beans, soft cabbage and carrot in a rich rustic red tomato sauce. A complete shallow bowl of stew; no rice, no fried egg.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-feijoada-entrecosto"
+    ]
+  },
+  {
+    "id": "yt-mackerel-fritters-rice",
+    "asset": "assets/expanded/yt-mackerel-fritters-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Three small rustic golden mackerel fish fritters with green parsley flecks, one split to show the light fish interior, beside moist red Portuguese tomato rice. Irregular spoon-shaped fritters, not half-moon rissóis.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-pataniscas-cavala"
+    ]
+  },
+  {
+    "id": "yt-ossobuco-potatoes",
+    "asset": "assets/expanded/yt-ossobuco-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One thick braised beef ossobuco cross-cut shank slice with its single central round marrow bone, glossy red-wine sauce, tiny braised carrot pieces and golden roast baby potatoes. Obviously ossobuco, not a steak or pork chop.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-ossobuco-batatinhas"
+    ]
+  },
+  {
+    "id": "yt-pork-chestnuts",
+    "asset": "assets/expanded/yt-pork-chestnuts",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Tender slow-braised pork neck cubes with whole peeled chestnuts and sliced mushrooms in a glossy deep brown red-wine sauce. A few roast potato, pumpkin and carrot pieces beside the meat.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-cachaco-castanhas"
+    ]
+  },
+  {
+    "id": "yt-creamy-prawns-rice",
+    "asset": "assets/expanded/yt-creamy-prawns-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Plump peeled pink prawns in a creamy pale golden lemon garlic sauce with a little diced red tomato and coriander, beside fluffy white rice. No shells, no other seafood.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-camarao-cremoso"
+    ]
+  },
+  {
+    "id": "yt-whitefish-prawn-rice",
+    "asset": "assets/expanded/yt-whitefish-prawn-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Portuguese moist malandrinho tomato rice with substantial boneless white fish chunks and peeled pink prawns, soft red pepper, onion and fresh coriander. Red golden saucy rice, not dry paella.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-arroz-tamboril",
+      "criador-terapia-arroz-corvina-gambas"
+    ]
+  },
+  {
+    "id": "yt-rabbit-pea-rice",
+    "asset": "assets/expanded/yt-rabbit-pea-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A tender braised rabbit leg, recognisably a slim small rabbit hind leg, in soft onion and paprika sauce, beside white rice with green peas. Rustic Portuguese rabbit stew, not a large chicken drumstick.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-coelho-ervilhas"
+    ]
+  },
+  {
+    "id": "yt-pork-ribs-potatoes",
+    "asset": "assets/expanded/yt-pork-ribs-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Three meaty roast pork ribs with clear elongated rib bones, a lightly caramelized paprika garlic crust, golden roast potato chunks and orange carrot. Juicy pale pork meat at one cut edge, not pork loin or steak.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-entrecosto-forno"
+    ]
+  },
+  {
+    "id": "yt-horse-mackerel-potatoes",
+    "asset": "assets/expanded/yt-horse-mackerel-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Portuguese carapaus alimados: tender cooked horse mackerel fillet flakes with a little silvery skin, finely sliced onion, garlic, parsley and olive oil, with boiled potato pieces and fresh red tomato. Not breaded or battered fish.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-carapaus-alimados"
+    ]
+  },
+  {
+    "id": "yt-pork-chop-potatoes",
+    "asset": "assets/expanded/yt-pork-chop-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One juicy golden pan-seared pork chop with its recognizable curved bone, a little sage and parsley butter sauce, boiled potato pieces and vivid green broccoli. Not pork loin slices, no steak.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-costeleta-ervas"
+    ]
+  },
+  {
+    "id": "yt-steak-egg-potatoes",
+    "asset": "assets/expanded/yt-steak-egg-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One beautifully browned beef steak topped with one sunny-side-up egg with fully set white, golden roast potato wedges and ripe red tomato alongside. Light glossy mustard pan sauce around the steak.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-bife-ovo"
+    ]
+  },
+  {
+    "id": "yt-chicken-prawn-paella",
+    "asset": "assets/expanded/yt-chicken-prawn-paella",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A serving of saffron golden paella rice with small bone-in golden chicken pieces, peeled pink prawns, soft tomato and garlic. No mussels, no squid, no fish. Dry creamy-grained paella, not soupy rice.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-paella-frango-camarao"
+    ]
+  },
+  {
+    "id": "yt-cuttlefish-potatoes",
+    "asset": "assets/expanded/yt-cuttlefish-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Tender small grilled cuttlefish, recognizable broad white bodies with a few curled short tentacles, lightly charred golden edges, finely chopped onion garlic coriander olive oil sauce, and boiled potato pieces. Not octopus suckers or rings of squid.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-chocos-molho-coentros"
+    ]
+  },
+  {
+    "id": "yt-octopus-peppers-potatoes",
+    "asset": "assets/expanded/yt-octopus-peppers-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Tender cooked octopus tentacle pieces with visible neat suckers in a rich red tomato and red pepper stew, with boiled potato pieces and fresh parsley and coriander. Cooked purple-red octopus, not squid rings.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-polvo-pimentos"
+    ]
+  },
+  {
+    "id": "yt-slow-beef-ribs",
+    "asset": "assets/expanded/yt-slow-beef-ribs",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A generous slow-roasted bone-in beef short rib with one thick straight rib bone, rich dark caramelized exterior and tender fibrous brown beef, beside roast potatoes and carrots in glossy meat juices. Not round ossobuco, not pork ribs.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-costela-lenta"
+    ]
+  },
+  {
+    "id": "yt-pork-strips-rice",
+    "asset": "assets/expanded/yt-pork-strips-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Juicy golden seared thin strips of pork lagartos with garlic and paprika, beside fluffy white rice and fresh tomato cucumber salad. Light pale cooked pork inside; no mushrooms, no bell pepper.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-lagartos-porco"
+    ]
+  },
+  {
+    "id": "yt-beef-rissois-rice",
+    "asset": "assets/expanded/yt-beef-rissois-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Three crisp golden Portuguese rissóis, neat half-moon breaded pastries, one cut open to reveal finely minced cooked beef filling, with white rice and fresh tomato beside them. Not roast meat or round fish fritters.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-rissois-carne"
+    ]
+  },
+  {
+    "id": "yt-cod-ze-do-pipo",
+    "asset": "assets/expanded/yt-cod-ze-do-pipo",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Portuguese bacalhau à Zé do Pipo: one thick cooked white cod loin under soft golden onions and a lightly browned creamy mayonnaise topping, creamy pale mashed potato piped or spooned beside it, a few black olives and tiny vegetable pickle pieces. No breaded fish.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-bacalhau-ze-pipo"
+    ]
+  },
+  {
+    "id": "yt-francesinha-rolls",
+    "asset": "assets/expanded/yt-francesinha-rolls",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two golden oven-baked spiral bread rolls filled with ham, small sausage pieces and melted cheese, with a little tomato cucumber salad. Visible baked bread spiral and pink meat filling. No red sauce, not a sandwich covered in sauce.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-rolos-francesinha"
+    ]
+  },
+  {
+    "id": "yt-pork-cheeks-mash",
+    "asset": "assets/expanded/yt-pork-cheeks-mash",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two tender slow-braised pork cheeks, boneless oval pieces with rich glossy red-wine gravy, on creamy mashed potato with a little wilted green spinach and braised carrot. Not steak, not a pork chop.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-bochechas-vinho-tinto"
+    ]
+  },
+  {
+    "id": "yt-chicken-pea-stew",
+    "asset": "assets/expanded/yt-chicken-pea-stew",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A golden bone-in chicken thigh in a rustic red tomato stew with green peas, orange carrot and a few chouriço rounds, beside creamy mashed potato. Very appetizing Portuguese comfort food.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-frango-ervilhas"
+    ]
+  },
+  {
+    "id": "yt-spicy-chicken-buns",
+    "asset": "assets/expanded/yt-spicy-chicken-buns",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two small golden baked bread buns split and filled with juicy grilled chicken thigh strips, a little pale spicy mayonnaise, coriander leaves and finely sliced pickled red onion. Buns are lightly golden baked bread, not white steamed bao.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-paezinhos-frango-picante"
+    ]
+  },
+  {
+    "id": "yt-duck-raspberry-potatoes",
+    "asset": "assets/expanded/yt-duck-raspberry-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Sliced cooked duck breast with crisp golden skin and warm rosy-brown interior, a neat serving of layered golden potato gratin, sauteed mushrooms and spinach, a small glossy raspberry red wine reduction. No whole raspberries as garnish, no chicken.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-pato-batata-gratinada"
+    ]
+  },
+  {
+    "id": "yt-lobster-roll",
+    "asset": "assets/expanded/yt-lobster-roll",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One luxurious but realistic lobster roll in a soft golden split-top toasted bread bun, generously filled with recognizable pink-white lobster meat pieces lightly dressed with mayonnaise, tiny celery cubes and chives. No whole lobster, no crab claws, no fries.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-sandocha-lavagante"
+    ]
+  },
+  {
+    "id": "yt-francesinha",
+    "asset": "assets/expanded/yt-francesinha",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One authentic Portuguese francesinha sandwich: thick square toasted bread enclosing beef steak, ham and sausage, completely draped with melted pale golden cheese and rich smooth orange-red beer tomato sauce. No fried egg and no fries. A little filling visible at one cut corner.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-francesinha-tradicional"
+    ]
+  },
+  {
+    "id": "yt-steak-asparagus-potatoes",
+    "asset": "assets/expanded/yt-steak-asparagus-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A nicely browned beef steak, lightly glossy mustard paprika pan sauce, golden roast potato chunks and vivid green asparagus spears. No fried egg, no chicken, no rice.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-bife-molho-mostarda"
+    ]
+  },
+  {
+    "id": "yt-turkey-burrito",
+    "asset": "assets/expanded/yt-turkey-burrito",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One large golden toasted wheat tortilla burrito cut diagonally into two halves, visibly filled with cooked turkey strips, black beans, white rice, diced tomato, a little avocado and melted cheese. Clean well-filled cross-section, not a quesadilla.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-burrito-peru"
+    ]
+  },
+  {
+    "id": "yt-sausage-egg-shakshuka",
+    "asset": "assets/expanded/yt-sausage-egg-shakshuka",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two eggs with set whites nestled in thick red tomato sauce with broad beans and a few red sausage slices, a little crumbled feta, avocado and coriander. A piece of crusty bread on the same plate. Not a meat-free shakshuka.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-shakshuka-favas"
+    ]
+  },
+  {
+    "id": "yt-cod-alheira-potatoes",
+    "asset": "assets/expanded/yt-cod-alheira-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A thick white cod loin with a coarse golden-brown alheira sausage crust, beside golden lightly smashed baby potatoes and dark green sauteed turnip greens with garlic. Cod visibly white and flaky at the cut side. No mayonnaise or mashed potato.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-bacalhau-alheira"
+    ]
+  },
+  {
+    "id": "yt-beef-stew-gnocchi",
+    "asset": "assets/expanded/yt-beef-stew-gnocchi",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Tender beef stew cubes with carrot and green peas in a rich tomato red-wine sauce, beside small handmade potato gnocchi lightly pan-seared golden. Clearly gnocchi, not penne or rice.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jamon-jardineira-gnocchi"
+    ]
+  },
+  {
+    "id": "yt-garlic-chicken-rice",
+    "asset": "assets/expanded/yt-garlic-chicken-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A juicy golden pan-seared chicken breast in a light garlic butter and coriander sauce, beside fluffy white rice and bright green broccoli. No breadcrumbs, no mushrooms, no cream.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-frango-manteiga-alho"
+    ]
+  },
+  {
+    "id": "yt-chicken-potato-pie",
+    "asset": "assets/expanded/yt-chicken-potato-pie",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One generous cut serving of a Portuguese-style chicken shepherds pie, with creamy pale potato mash and a lightly browned melted cheese top, tender shredded white chicken and onion visible at the cut edge. No pastry, no pumpkin, no rice, no other prominent vegetables.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-empadao-frango-milho",
+      "criador-receituando-frango-creme-batata-bacon",
+      "criador-receituando-empadao-frango-calabresa"
+    ]
+  },
+  {
+    "id": "yt-creamy-chicken-gratin",
+    "asset": "assets/expanded/yt-creamy-chicken-gratin",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A generous plated serving of juicy chicken pieces in a pale creamy oven-gratin sauce with a lightly golden top and tiny oregano flecks, beside fluffy white rice. Focus on the cooked chicken and golden cream, no mushrooms, no potato, no extra garnishes.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-frango-ovo-tomate",
+      "criador-receituando-frango-molho-branco"
+    ]
+  },
+  {
+    "id": "yt-chicken-potato-gratin",
+    "asset": "assets/expanded/yt-chicken-potato-gratin",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One generous serving of oven-gratinated thin potato slices and chicken breast with a creamy sauce, melted golden cheese and two thin baked tomato slices on top. Sliced potato layers visible, not a smooth mashed potato pie.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-frango-caril-batatas",
+      "criador-receituando-frango-batata-tomate"
+    ]
+  },
+  {
+    "id": "yt-crispy-chicken-wings",
+    "asset": "assets/expanded/yt-crispy-chicken-wings",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Four crisp golden chicken wing middle sections, recognisable small double-bone wings with a thin ginger garlic crust, served with white rice and tomato cucumber salad. Not large drumsticks, no sticky barbecue sauce.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-asinhas-gengibre"
+    ]
+  },
+  {
+    "id": "yt-chicken-batter-pie",
+    "asset": "assets/expanded/yt-chicken-batter-pie",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One thick square slice of golden savoury baked chicken pie made with soft cake-like blended batter, with shredded white chicken, green peas, yellow sweetcorn and small tomato pieces visible in the filling. A tender lightly golden baked batter top, not flaky pastry or mashed potato.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-tarte-frango-liquidificador"
+    ]
+  },
+  {
+    "id": "yt-chicken-cheese-fritters",
+    "asset": "assets/expanded/yt-chicken-cheese-fritters",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Three small golden savoury chicken and cheese fritters, slightly irregular flat round patties, one split to show juicy chopped white chicken and melted cheese, with fresh tomato cucumber salad. Parsley-like coriander flecks. Not a fish burger or breaded half-moon pastry.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-panquecas-frango-queijo"
+    ]
+  },
+  {
+    "id": "yt-beef-potato-pie",
+    "asset": "assets/expanded/yt-beef-potato-pie",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One generous cut serving of a rustic minced beef and potato oven gratin, rich finely minced beef tomato filling beneath a golden soft potato and melted cheese top. Pale creamy potato with a little texture, browned topping, no pastry, no pasta.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-vaca-batata-tomate",
+      "criador-receituando-vaca-pure-cremoso",
+      "criador-receituando-parmegiana-carne-batata",
+      "criador-receituando-empadao-vaca-classico",
+      "criador-receituando-empadao-vaca-azeitonas"
+    ]
+  },
+  {
+    "id": "yt-beef-soy-rice",
+    "asset": "assets/expanded/yt-beef-soy-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Tender browned beef steak strips in a glossy light soy sauce with soft onion and tomato strips, served beside fluffy white rice. Beef is clearly strips, not minced or meatballs. No sesame seeds, no broccoli.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-tiras-vaca-soja"
+    ]
+  },
+  {
+    "id": "yt-stuffed-beef-potato-rolls",
+    "asset": "assets/expanded/yt-stuffed-beef-potato-rolls",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two small baked beef meatloaf rolls stuffed with melted pale cheese, one cut open to show creamy filling, in rich red tomato sauce with a little melted golden cheese on top. Fine cooked minced beef exterior, not bread rolls or crepes.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-rolinhos-carne-batata"
+    ]
+  },
+  {
+    "id": "yt-beef-crepes-gratin",
+    "asset": "assets/expanded/yt-beef-crepes-gratin",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two thin golden savoury crepes rolled around a finely minced beef and vegetable filling, topped with rich red tomato sauce and lightly browned melted cheese. One cut end reveals the cooked beef, not pasta cannelloni tubes.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-panquecas-carne"
+    ]
+  },
+  {
+    "id": "yt-beef-polenta",
+    "asset": "assets/expanded/yt-beef-polenta",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Creamy golden yellow corn polenta with a generous rich tomato minced beef ragu, diced red pepper and a few parsley flecks. Clearly soft smooth golden polenta, no pasta, no rice, no potato.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-polenta-vaca"
+    ]
+  },
+  {
+    "id": "yt-ham-cheese-rice-gratin",
+    "asset": "assets/expanded/yt-ham-cheese-rice-gratin",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One generous scoop of golden oven-baked rice gratin with small pink cooked ham pieces, carrot, green peas and yellow sweetcorn, topped with melted golden cheese. Creamy rice grains clearly visible; no eggs on top, no sausage.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-arroz-frango-forno-legumes",
+      "criador-receituando-arroz-fiambre-cremoso"
+    ]
+  },
+  {
+    "id": "yt-sausage-rice",
+    "asset": "assets/expanded/yt-sausage-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A comforting serving of moist Portuguese-style tomato rice with browned red pork sausage rounds, soft onion and finely diced tomato. Gently creamy rice but no visible cheese blanket or cheese strings, no egg.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-arroz-linguica-queijo",
+      "criador-receituando-arroz-linguica-simples",
+      "criador-receituando-arroz-preguicoso"
+    ]
+  },
+  {
+    "id": "yt-egg-coated-chicken-rice",
+    "asset": "assets/expanded/yt-egg-coated-chicken-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Golden chicken breast strips with a light puffy egg coating, a few paprika flecks, one strip cut to show juicy cooked white chicken, beside white rice and green broccoli. Thin airy egg batter, not rough oat or breadcrumb crust.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-frango-crosta-ovo"
+    ]
+  },
+  {
+    "id": "yt-chicken-thigh-potatoes",
+    "asset": "assets/expanded/yt-chicken-thigh-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One beautifully golden oven-roasted bone-in chicken thigh with juicy cooked meat, a thin lightly browned garlic paprika mayonnaise coating, and golden roasted potato cubes. No rice, no broccoli, no vegetables beyond potato, no boneless breast.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-coxas-maionese-batata"
+    ]
+  },
+  {
+    "id": "yt-chicken-ham-frittata",
+    "asset": "assets/expanded/yt-chicken-ham-frittata",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A generous square slice of golden baked egg omelette with visible small pink cooked ham pieces, shredded white chicken, yellow sweetcorn, tiny red pepper and carrot pieces, and melted cheese. Airy firm cooked egg interior, no pastry crust, no potato, no courgette, no side salad.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-receituando-omelete-forno-frango-fiambre"
+    ]
+  },
+  {
+    "id": "yt-chicken-oven-rice",
+    "asset": "assets/expanded/yt-chicken-oven-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Portuguese oven-baked tomato chicken rice with a small golden bone-in chicken thigh and a few tender chicken pieces on top of rich soft tomato rice, finely chopped onions and garlic. Slightly toasted rice surface, no green peas, no carrots, no broccoli.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-terapia-arroz-frango-forno"
+    ]
+  },
+  {
+    "id": "yt-turbot-potatoes",
+    "asset": "assets/expanded/yt-turbot-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One thick cooked bone-in turbot steak, white flaky flesh and a little gray speckled skin along the edge, dressed with warm sliced garlic olive oil sauce, beside boiled peeled potato chunks and vivid green broccoli. Fish steak, not a fillet, not salmon, no red or curry sauce.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-22",
+    "recipeIds": [
+      "criador-terapia-pregado-alho"
+    ]
+  },
+  {
+    "id": "yt-chicken-egg-fried-rice",
+    "asset": "assets/expanded/yt-chicken-egg-fried-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A shallow bowl of loose long-grain egg fried rice, golden scrambled egg pieces, small browned chicken breast cubes, finely diced carrot, green peas and sliced spring onion, very lightly glossy from soy and sesame oil. Clear chicken cubes, not prawns or pork; no fried egg on top, no heavy sauce.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-22",
+    "recipeIds": [
+      "criador-jamon-arroz-frito-frango"
+    ]
+  },
+  {
+    "id": "yt-breaded-chicken-rice",
+    "asset": "assets/expanded/yt-breaded-chicken-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One golden oven-baked breadcrumb coated chicken breast cut into thick slices revealing juicy fully cooked white chicken, with fluffy white rice and a little fresh tomato and cucumber salad. A fine evenly golden breadcrumb crust, no oat flakes, no broccoli, no sauces.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-22",
+    "recipeIds": [
+      "criador-receituando-frango-panado-forno"
+    ]
+  },
+  {
+    "id": "gj-tuna-nicoise",
+    "asset": "assets/expanded/gj-tuna-nicoise",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A colourful Niçoise main-course salad of good canned tuna flakes, hard-boiled egg quarters, thin anchovy fillets, ripe red tomato wedges, cucumber, sliced pink radishes and fresh spring onion and basil. Modest olive oil vinaigrette glistening naturally. Two slices of crusty wheat bread on the same plate. No potatoes, olives or green beans.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-nicoise"
+    ]
+  },
+  {
+    "id": "gj-grilled-squid",
+    "asset": "assets/expanded/gj-grilled-squid",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Tender freshly grilled squid, with a clean white squid mantle sliced accordion-style and a few curled tentacles lightly charred. Spoonful of russet-red nduja and butter sauce, finely chopped chives, small boiled potatoes and a modest lemon wedge on the same plate. No rice, no prawns, no pasta.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-lulas-nduja"
+    ]
+  },
+  {
+    "id": "gj-fish-katsu-curry",
+    "asset": "assets/expanded/gj-fish-katsu-curry",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Crisp golden panko-breaded white-fish cutlet sliced into broad strips showing moist opaque white hake flesh, served beside a compact mound of plain white rice and thick golden Japanese curry containing small carrot, potato, onion and grated apple. A few delicate spring-onion slices. No chicken, pork or fried egg, no cream drizzle.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-katsu"
+    ]
+  },
+  {
+    "id": "gj-roasted-halibut",
+    "asset": "assets/expanded/gj-roasted-halibut",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A thick boneless white halibut fillet, roasted until opaque and lightly golden, over a little soft sliced leek. A modest pool of glossy pale coral-orange harissa beurre blanc, boiled baby potatoes and fresh flat-leaf parsley, thyme and a little lemon zest. No salmon, no visible fish bones, no rice.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-halibute-harissa"
+    ]
+  },
+  {
+    "id": "gj-steak-potato-dauphine",
+    "asset": "assets/expanded/gj-steak-potato-dauphine",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One beautifully seared boneless beef steak sliced thickly, cooked medium-well with only a faint blush, accompanied by four small round golden pommes dauphines potato puffs with airy rough crisp surfaces. A small spoonful of creamy sautéed mushroom sauce beside the beef. No chips, no mashed potato mound, no raw meat.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-bife-dauphine"
+    ]
+  },
+  {
+    "id": "gj-salt-roasted-scarlet-prawns",
+    "asset": "assets/expanded/gj-salt-roasted-scarlet-prawns",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Three large whole cooked scarlet carabinero prawns with deep natural red shells and heads, neatly arranged with crusty bread slices and a fresh tomato and cucumber salad with a small lemon wedge. Shell-on seafood, elegant but informal Portuguese home cooking. No pile of cooking salt, no white sauce, no peeled curled prawns.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-carabineiros-sal"
+    ]
+  },
+  {
+    "id": "gj-grilled-mackerel",
+    "asset": "assets/expanded/gj-grilled-mackerel",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two grilled fresh boneless mackerel fillets with silver-blue crisp skin and fully cooked opaque flesh, a small pool of vivid creamy green parsley sauce, several boiled potato chunks and a few thin spring-onion slices. One small lemon wedge. No canned fish, no salmon, no rice.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-cavala-salsa"
+    ]
+  },
+  {
+    "id": "gj-turbot-curry-butter",
+    "asset": "assets/expanded/gj-turbot-curry-butter",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A tender boneless turbot fillet, pale white flaky flesh lightly browned in butter, served on a modest silky pale golden curry beurre blanc. A small nest of very fine crisp golden matchstick potato fries, dusted lightly with smoked paprika. Lemon zest and black pepper. No whole fish, no fish head, no bones, no rice.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-pregado-caril"
+    ]
+  },
+  {
+    "id": "gj-smoked-mackerel-potatoes",
+    "asset": "assets/expanded/gj-smoked-mackerel-potatoes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A warm bistro salad of large boiled potato chunks, ready-to-eat golden smoked mackerel pieces with silvery skin, hard-boiled egg quarters, lightly pickled thin carrot slices, onion and spring onion. A few small dollops of white natural yogurt, chives and olive oil. No tuna, no green peas, no rice.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-cavala-fumada-batata"
+    ]
+  },
+  {
+    "id": "gj-sole-lemon-butter",
+    "asset": "assets/expanded/gj-sole-lemon-butter",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two delicate boneless sole fillets pan-fried until lightly golden, coated with glossy nut-brown lemon butter and chopped parsley, beside a compact modest mound of garlic white rice. Fresh spring onion and a small lemon wedge. No thick salmon steaks, no potato chips, no whole fish with head.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-linguado-meuniere"
+    ]
+  },
+  {
+    "id": "gj-anchovy-onion-flatbread",
+    "asset": "assets/expanded/gj-anchovy-onion-flatbread",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two small pillowy golden pan-fried flatbreads topped with a generous bed of deeply softened caramelised onions, thin anchovy fillets, pitted black olives and a little fresh thyme and parsley. A side of ripe tomato and cucumber salad on the same plate. No melted cheese, no red pizza sauce, no pepperoni.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-gil-pizzaladiere"
+    ]
+  },
+  {
+    "id": "gj-beef-crepes-gratin",
+    "asset": "assets/expanded/gj-beef-crepes-gratin",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two thin wheat crepes rolled around cooked minced beef and tomato filling, covered sparingly with creamy pale potato sauce and golden melted grated cheese. One crepe cut open at the end to clearly show the juicy beef filling. Homely Portuguese savoury pancake gratin, plated as a main course. No lasagne sheets, no sweet syrup, no béchamel puddle.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jucy-panquecas-carne"
+    ]
+  },
+  {
+    "id": "gj-caprese-chicken-pasta",
+    "asset": "assets/expanded/gj-caprese-chicken-pasta",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Short penne pasta coated with a fresh rich red tomato sauce, a little melted cheese and fresh basil leaves, with sliced golden grilled chicken breast arranged over one side. A few small parmesan flakes. No broccoli, no courgette, no mushrooms, no creamy white sauce.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jucy-massa-caprese-frango"
+    ]
+  },
+  {
+    "id": "gj-kofta-tabouleh-flatbread",
+    "asset": "assets/expanded/gj-kofta-tabouleh-flatbread",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Three small well-cooked browned beef kofta logs, a small warm round wheat-and-corn flatbread folded once, fresh bulgur tabbouleh with finely chopped tomato, green pepper, parsley and mint, and a small spoonful of natural yogurt on the same plate. Lemon wedge. No skewers, no rice, no hummus.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jucy-kafta-tabule"
+    ]
+  },
+  {
+    "id": "gj-steak-mushroom-pumpkin",
+    "asset": "assets/expanded/gj-steak-mushroom-pumpkin",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A seared boneless beef steak sliced into broad pieces with a spoonful of smooth pale brown mushroom-and-coffee cream sauce. Accompanied by tender golden-orange roasted pumpkin cubes and a little sautéed carrot, courgette, cherry tomato and mushroom. No rice, no mashed potatoes, no minced beef.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jucy-bife-cogumelos"
+    ]
+  },
+  {
+    "id": "gj-duck-orange-mash",
+    "asset": "assets/expanded/gj-duck-orange-mash",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Sliced cooked duck breast with beautifully crisp golden-brown skin, cooked medium-well and juicy, laid partly over smooth pale potato mash. A modest glossy orange sauce with rosemary, tiny orange zest strips. Warm appetising savoury plate, no whole duck, no chicken, no rice, no large raw pink centre.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jucy-pato-laranja"
+    ]
+  },
+  {
+    "id": "gj-seafood-paella",
+    "asset": "assets/expanded/gj-seafood-paella",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A generous but realistic serving of golden turmeric seafood rice, short-grain rice, tender octopus pieces with visible small suction cups, squid rings, peeled prawns and a few opened mussels in dark shells. Red and green pepper and tomato incorporated into the rice, a little parsley and chives and a small lime wedge. All seafood cooked. No chicken, no chorizo, no giant raw lobster.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jucy-paella-mar"
+    ]
+  },
+  {
+    "id": "gj-langoustines-potato-mushroom",
+    "asset": "assets/expanded/gj-langoustines-potato-mushroom",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Cooked peeled langoustine tails, distinct slender scampi pieces with coral-orange edges and opaque ivory flesh, pan-seared lightly in butter, arranged beside smooth pale potato mash and a small spoonful of silky mushroom and Brazil-nut cream. A small lemon wedge. No whole lobster, no mussel shells, no purple potato, no rice.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-jucy-lagostim-cremes"
+    ]
+  },
+  {
+    "id": "gj-egg-bacon-mini-quiches",
+    "asset": "assets/expanded/gj-egg-bacon-mini-quiches",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Three small individual crustless egg quiches, golden on top with flecks of fresh green spinach, small cooked bacon pieces, a little tomato and melted cheese. Egg texture tender and set, each quiche looks baked in a small ramekin then unmoulded, no pastry crust. Fresh tomato wedges and two modest slices of crusty bread on the same plate.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-hyzer-mini-quiches"
+    ]
+  },
+  {
+    "id": "gj-alheira-cheese-pastries",
+    "asset": "assets/expanded/gj-alheira-cheese-pastries",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Two small rectangular golden puff-pastry parcels filled with Portuguese alheira sausage and São Jorge cheese. One parcel cut in half to show the savoury beige shredded sausage filling and melted cheese, with a little basil. Alongside a fresh spinach, tomato and cucumber salad. No chicken filling, no sweet custard, no seeds or nuts.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-hyzer-folhados-alheira"
+    ]
+  },
+  {
+    "id": "gj-spaghetti-tomato-eggs-ham",
+    "asset": "assets/expanded/gj-spaghetti-tomato-eggs-ham",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: An appetising nest of spaghetti coated in rich creamy red tomato sauce, topped with soft fully set cooked egg pieces, small ribbons of cooked pork ham, melted white cheese and fresh basil. A light dusting of parmesan. Clearly a savoury pasta with eggs in tomato sauce, no raw runny egg puddle, no mushrooms, no broccoli.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-hyzer-esparguete-ovos"
+    ]
+  },
+  {
+    "id": "gj-chicken-ham-cheese-toast",
+    "asset": "assets/expanded/gj-chicken-ham-cheese-toast",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A golden butter-toasted sandwich cut into two thick triangles, showing layers of pale pink chicken ham and melted cheese between rustic wheat bread slices. A hint of parmesan and basil. Fresh tomato and cucumber salad on the same plate. No raw chicken breast, no chips, no coffee cup, no text or flags.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-hyzer-tosta-frango"
+    ]
+  },
+  {
+    "id": "gj-chicken-stroganoff-rice",
+    "asset": "assets/expanded/gj-chicken-stroganoff-rice",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Juicy browned chicken breast strips in a smooth warm pale coral tomato-cream stroganoff sauce with softened onion, served beside a tidy modest mound of fluffy white rice. Creamy natural sauce, freshly cooked and comforting. No mushrooms, no parsley garnish, no chips, no beef.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-kelvio-strogonoff"
+    ]
+  },
+  {
+    "id": "gj-steak-broccoli-rice-slaw",
+    "asset": "assets/expanded/gj-steak-broccoli-rice-slaw",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A well-seared boneless beef steak sliced in thick strips with a juicy medium-well centre, next to fluffy white rice mixed with small bright green broccoli florets. A crisp purple cabbage and grated carrot slaw very lightly dressed in white yogurt and lemon on the same plate. No potatoes, no fried egg, no mushroom sauce.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-kelvio-bife-brocolos"
+    ]
+  },
+  {
+    "id": "so-beef-sweet-potato-burger",
+    "asset": "assets/expanded/so-beef-sweet-potato-burger",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A juicy fully cooked minced beef burger between two round golden baked flat discs made of grated orange sweet potato, carrot, egg and cheese, with a little fresh green guacamole inside. This is NOT a bread bun: the visible orange vegetable discs have fine strands and golden edges. One assembled burger, realistic appetizing layers, no fries.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-hamburguer-batata-doce"
+    ]
+  },
+  {
+    "id": "so-chicken-zucchini-pasta",
+    "asset": "assets/expanded/so-chicken-zucchini-pasta",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A shallow bowl of penne pasta coated in a smooth pale green zucchini and feta cream sauce, with a neatly arranged juicy grilled chicken breast cut into four slices on top. No red tomato sauce, no breading, no whole zucchini chunks.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-massa-curgete-feta"
+    ]
+  },
+  {
+    "id": "so-chicken-egg-wrap",
+    "asset": "assets/expanded/so-chicken-egg-wrap",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One golden toasted wheat tortilla folded over a filling of softly set fully cooked eggs, finely shredded cooked chicken, cottage cheese, red tomato and fresh wilted spinach. Cut into two substantial halves to reveal the tasty filling. No fries, no side dishes.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-wrap-frango-cottage"
+    ]
+  },
+  {
+    "id": "so-ham-egg-tortilla",
+    "asset": "assets/expanded/so-ham-egg-tortilla",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A golden wheat tortilla with a thin fully cooked yellow omelette layer, melted cheese, pieces of chicken ham and ripe tomato, folded in a half moon and sliced into two wedges. A little chopped parsley on the dish itself. Visible cheese and egg, no fried egg on top.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-wrap-ovo-fiambre"
+    ]
+  },
+  {
+    "id": "so-cod-bras",
+    "asset": "assets/expanded/so-cod-bras",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Portuguese bacalhau a Bras: a generous neat mound of shredded salt cod, fine golden potato matchsticks, grated carrot and soft leek, gently bound with fully cooked scrambled egg, finished with chopped parsley and a few black olives. Moist and golden, cod flakes visible. No whole fish fillet, no fish burger.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-bacalhau-bras"
+    ]
+  },
+  {
+    "id": "so-creamy-salmon-spinach",
+    "asset": "assets/expanded/so-creamy-salmon-spinach",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One seared pink-orange salmon fillet in a light creamy cottage cheese sauce with wilted green spinach and small cooked red tomato pieces. A tidy mound of white rice beside it. Salmon well cooked and juicy, fresh chopped parsley lightly scattered on the food.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-salmao-cremoso"
+    ]
+  },
+  {
+    "id": "so-tuna-wrap-lasagna",
+    "asset": "assets/expanded/so-tuna-wrap-lasagna",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A beautiful square serving of baked tuna and vegetable lasagna, made with thin wheat tortilla layers rather than pasta sheets. Visible tuna flakes, spinach, mushrooms, tomato and leek in the cross section, a creamy egg-yogurt topping and beautifully golden melted cheese. No beef, no ground meat.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-lasanha-atum-wrap"
+    ]
+  },
+  {
+    "id": "so-beef-zucchini-lasagna",
+    "asset": "assets/expanded/so-beef-zucchini-lasagna",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: One beautiful square serving of zucchini lasagna with fully cooked minced beef and light tomato sauce, thin lengthwise zucchini ribbons replacing pasta, a creamy cottage cheese layer and golden melted cheese on top. Moist layered cross section clearly visible. No pasta sheets.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-lasanha-curgete"
+    ]
+  },
+  {
+    "id": "so-sweet-potato-brownie",
+    "asset": "assets/expanded/so-sweet-potato-brownie",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Three small square sweet potato cocoa brownies arranged on the plate, deep chocolate-brown with moist dense crumb and gently crackled baked tops. One square is slightly broken to show its soft fudgy center. No frosting, no ice cream, no sauce, no chocolate chips, no fruit garnish. The food is made of sweet potato, cocoa, eggs, oats and milk powder.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-brownie-batata-doce"
+    ]
+  },
+  {
+    "id": "so-banana-carrot-muffins",
+    "asset": "assets/expanded/so-banana-carrot-muffins",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: Three small home-baked banana, grated carrot, oat flour and cottage cheese muffins, softly golden with tiny orange carrot flecks, one muffin split in half to reveal a tender pale crumb. Plain muffins without icing, no chocolate, no fruit garnish, no paper wrappers. Natural rustic domed tops, not glossy cupcakes.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-muffins-cottage"
+    ]
+  },
+  {
+    "id": "so-banana-oat-pancakes",
+    "asset": "assets/expanded/so-banana-oat-pancakes",
+    "prompt": "Photorealistic editorial food photography for a Portuguese meal-planning app. One single finished dish, beautifully home-cooked and very appetizing, on a plain warm ivory ceramic plate or shallow bowl on a pale warm limestone tabletop. Same consistent series art direction: soft natural window light from the upper left, gentle real shadows, natural warm-white balance, fresh vibrant food colors, no harsh flash, no restaurant clutter, no hands, no people, no props, no text, no logos, no collage. Square image, camera at a 45-degree angle, entire plate centered with a little breathing room, food fills most of the plate. Realistic textures and realistic portions, clean professional cookbook image, not glossy CGI. Dish: A short stack of four small banana, oat flour and cottage cheese pancakes, warmly golden and slightly rustic with a soft tender texture. Plain pancakes with no syrup, no honey, no butter, no berries and no additional toppings, beautifully cooked and very appetizing.",
+    "tool": "OpenAI ImageGen",
+    "generatedAt": "2026-10-20",
+    "recipeIds": [
+      "criador-foodies-panquecas-banana"
+    ]
   }
 ]

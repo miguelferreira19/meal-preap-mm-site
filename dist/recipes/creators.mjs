@@ -1,0 +1,107 @@
+// Official public profile images, checked 2026-10-20. No generated faces.
+export const EXTRA_CREATORS = [
+  {
+    "id": "terapia",
+    "name": "Terapia no Fogo",
+    "personName": "Paulo Oliveira",
+    "handle": "@terapianofogo",
+    "profile": "https://www.instagram.com/terapianofogo/",
+    "portrait": "assets/creators/terapia.jpg",
+    "portraitSource": "https://scontent.cdninstagram.com/v/t51.82787-19/609557126_18092064944482562_363576545809500490_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=nFA1Gx1KsEcQ7kNvwEif9u8&_nc_oc=Adrhy85rmX5IEjYvSJLM4MMAyGwVlHEAMBLv84ZRhJep1lM8NteqN_MD4wwpeaF6JYM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=8MrOuKQs2zaDym2ws_58Rg&_nc_ss=7c689&oh=00_AQOvtMQBS91HX5roBPJZt0FXEcHcrc1hAji1VDJWYIq3aw&oe=6ADD4629",
+    "portraitPage": "https://www.instagram.com/terapianofogo/",
+    "portraitKind": "person",
+    "portraitAlt": "Fotografia de Paulo Oliveira",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "jamon",
+    "name": "ChefeJamon",
+    "personName": "ChefeJamon",
+    "handle": "@chefejamon",
+    "profile": "https://www.instagram.com/chefejamon/",
+    "portrait": "assets/creators/jamon.jpg",
+    "portraitSource": "https://scontent.cdninstagram.com/v/t51.2885-19/334701024_610819507528687_1061685632083609098_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDAuQzMifQ%3D%3D&_nc_ohc=2KPydONYKN4Q7kNvwFbL9_H&_nc_oc=Adp-tuZVQoCNuNF7WuigrThqg4dqbzLtCYUyHb0tNlu1F2VDiwVDZNm4GQQGLHx_vjI&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7c689&oh=00_AQP7zCnLynrO6j5AW3la9dEkk_2X40S58M9i5Zmp6Z5mnQ&oe=6ADD4631",
+    "portraitPage": "https://www.instagram.com/chefejamon/",
+    "portraitKind": "person",
+    "portraitAlt": "Fotografia de ChefeJamon",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "gil",
+    "name": "Gil Treats Gil",
+    "personName": "Gil",
+    "handle": "@gil.treats.gil",
+    "profile": "https://www.instagram.com/gil.treats.gil/",
+    "portrait": "assets/creators/gil.jpg",
+    "portraitSource": "https://scontent.cdninstagram.com/v/t51.2885-19/386534254_336526812374922_4047785280061245759_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-a8fuo-gGmUQ7kNvwHCDX9n&_nc_oc=AdrCXUP7nFPKvYhE_hFVzCpIG8gXbrywexeJ3_Vp3Tduvn8Bw5GcwwFiRx73Hug7cnY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7c689&oh=00_AQNmRqEbFkz4SKiRg6cMsapTwnHkD2ORpOhSQWaonnRmQQ&oe=6ADD3EA2",
+    "portraitPage": "https://www.instagram.com/gil.treats.gil/",
+    "portraitKind": "person",
+    "portraitAlt": "Fotografia de Gil",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "jucy",
+    "name": "Jucyléia C. Machado",
+    "personName": "Jucyléia C. Machado",
+    "handle": "@jucy.masterchef",
+    "profile": "https://www.instagram.com/jucy.masterchef/",
+    "portrait": "assets/creators/jucy.jpg",
+    "portraitSource": "https://scontent.cdninstagram.com/v/t51.2885-19/447564508_785243163675343_705274003733633215_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDIuQzMifQ%3D%3D&_nc_ohc=iI0hPNfBjswQ7kNvwHJUi4L&_nc_oc=AdozBKrEpwXhpEqmnm6PdnPVXYWX0duU4oC5yFWZHhGN3BBGaROBY5B2Ee2Ufa7ood4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7c689&oh=00_AQMp5lfnPdqth40vu_7BGr-eOh7pbM6Eui0fOaQoG2O06Q&oe=6ADD56C9",
+    "portraitPage": "https://www.instagram.com/jucy.masterchef/",
+    "portraitKind": "person",
+    "portraitAlt": "Fotografia de Jucyléia C. Machado",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "foodies",
+    "name": "FOODIES by Carolina",
+    "personName": "Carolina",
+    "handle": "@foodiesguide__",
+    "profile": "https://www.instagram.com/foodiesguide__/",
+    "portrait": "assets/creators/foodies.jpg",
+    "portraitSource": "https://scontent.cdninstagram.com/v/t51.82787-19/825276880_18116261546046243_6142045776281841349_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjAuQzMifQ%3D%3D&_nc_ohc=x_oFU9sPYyIQ7kNvwHelvSr&_nc_oc=AdqkcgyQSv5gDL8HLuEx20fN8wXFOdcR_hvJqf4aEASkCnI_ZcFM0IjmOlppecXw4B4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=fC27EPD8vOUq04Mq2WNoSg&_nc_ss=7c689&oh=00_AQNaQ29d8OjCmfwK6AADimGzrjTpsvuto5yWMrRj_lc9Kg&oe=6ADD45C8",
+    "portraitPage": "https://www.instagram.com/foodiesguide__/",
+    "portraitKind": "person",
+    "portraitAlt": "Fotografia de Carolina",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "hyzer",
+    "name": "Tiago Costa — Hyzer",
+    "personName": "Tiago Costa",
+    "handle": "@_hyzer_",
+    "profile": "https://www.instagram.com/_hyzer_/",
+    "portrait": "assets/creators/hyzer.jpg",
+    "portraitSource": "https://scontent.cdninstagram.com/v/t51.82787-19/734686083_18603836611059612_8838761186636701566_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45NjQuQzMifQ%3D%3D&_nc_ohc=1xw3X_rnjGcQ7kNvwGtETWP&_nc_oc=AdpswJFQh77h_iJaQRQvvlIXv8jgV2qo227LZNiDR82OqLb8hv1TTAgvYwyjod-909k&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=Yu5blmVPXDawvwkp8p90RA&_nc_ss=7c689&oh=00_AQMDMpZOypIjeJ-OkjOz8N3Vk_T1gg8EyUV7Djz5ae0xog&oe=6ADD54FA",
+    "portraitPage": "https://www.instagram.com/_hyzer_/",
+    "portraitKind": "person",
+    "portraitAlt": "Fotografia de Tiago Costa",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "receituando",
+    "name": "Receituando Master",
+    "personName": "Receituando Master",
+    "handle": "@ReceituandoMaster",
+    "profile": "https://www.youtube.com/@ReceituandoMaster",
+    "portrait": "assets/creators/receituando.jpg",
+    "portraitSource": "https://yt3.googleusercontent.com/m1emEO_XK2rO1HcCKBiDke4UAYFwcnnDyP8OH-gzHgArKN7MqwRA-lXiv6X1Uw4hQoWDraru=s900-c-k-c0x00ffffff-no-rj",
+    "portraitPage": "https://www.youtube.com/@ReceituandoMaster",
+    "portraitKind": "brand",
+    "portraitAlt": "Logótipo oficial de Receituando Master",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "kelvio",
+    "name": "Kelvio Januário",
+    "personName": "Kelvio Januário",
+    "handle": "@kelvio.antunes",
+    "profile": "https://www.instagram.com/kelvio.antunes/",
+    "portrait": "assets/creators/kelvio.jpg",
+    "portraitSource": "https://scontent.cdninstagram.com/v/t51.82787-19/730783442_18333900631271667_6405629606817589479_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=K8QjqvdQnIEQ7kNvwEttIbY&_nc_oc=AdqTNgSdA0X3E1qdw2uOaTORhwpJDefMPaE3f12SawNW7dN6DBfWbPq3hDqfZMZrc6E&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=LP0OyYOOH5ZXzzR1zc4Yhg&_nc_ss=7c689&oh=00_AQP6ZRPXEhuyxSbbZgLlecnX6mbiNvgVSM5UmXpbUQdnFA&oe=6ADD910B",
+    "portraitPage": "https://www.instagram.com/kelvio.antunes/",
+    "portraitKind": "person",
+    "portraitAlt": "Fotografia de Kelvio Januário",
+    "checkedAt": "2026-10-20"
+  }
+];

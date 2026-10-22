@@ -28,6 +28,10 @@ A publicação está definida em .github/workflows/pages.yml. Este repositório 
 
 ## Receitas e imagens
 
-O catálogo inclui oito adaptações de receitas públicas d’A Pitada do Pai e de Clara de Sousa, com nome, retrato, ligação à publicação original e alterações identificadas. O planeamento prefere estas receitas quando o orçamento, as proteínas, os utensílios e os preços disponíveis permitem. O filtro De criadores e a pesquisa permitem encontrar o autor. Fontes e retratos documentados em [CREATOR_SOURCES.md](CREATOR_SOURCES.md).
+O catálogo inclui **109 adaptações de 10 criadores: 106 refeições principais e 3 extras**, com autor, retrato real ou logótipo oficial, ligação à fonte e alterações identificadas. Foram acrescentadas 101 fichas às oito existentes. A pesquisa e o filtro por autor permitem explorar o catálogo; a opção de compatibilidade aplica as escolhas de tempo, proteínas, equipamentos, exclusões e preços. Os extras não entram nos planos de almoço e jantar.
 
-Fotografias dos pratos são ilustrativas; os acompanhamentos podem diferir. Créditos e licenças em RECIPE_PHOTOS.md, ASSET_SOURCES.md e no detalhe das receitas. Não existe parceria com os criadores, supermercados ou marcas usadas como referência.
+As fontes foram verificadas em 20/10/2026. Oito receitas de FOODIES by Carolina usam legendas públicas de índices, identificadas como tal; a ligação original no Instagram ainda não está confirmada. As restantes 101 fichas têm fonte pública primária. As quantidades e preparações definidas pela app são explicadas em cada adaptação. Não foram usados ebooks nem conteúdos pagos.
+
+Dos 15 perfis pedidos, nove têm receitas integradas; Clara de Sousa permanece como autora adicional. Nos restantes seis não foi possível verificar uma receita completa no material consultado, com limites de acesso ou identidade em alguns casos. O levantamento não equivale ao arquivo completo de cada perfil e não classifica receitas como tendências atuais. Consulte [fontes e retratos](CREATOR_SOURCES.md), [cobertura por perfil](docs/RESEARCH_COVERAGE.md) e o [registo estruturado](docs/RECIPE_RESEARCH.json).
+
+As imagens dos pratos são ilustrativas e seguem uma direção visual uniforme. Quando geradas por IA, têm essa indicação no detalhe da receita. Créditos e proveniência em [RECIPE_PHOTOS.md](RECIPE_PHOTOS.md) e [ASSET_SOURCES.md](ASSET_SOURCES.md). Não existe parceria com os criadores, supermercados ou marcas usadas como referência.

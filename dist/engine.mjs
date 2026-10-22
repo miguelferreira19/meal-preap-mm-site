@@ -3,7 +3,7 @@ import { DEFAULT_SETTINGS, EQUIPMENT, INGREDIENTS, RECIPES, STORES, PROTEINS, re
 const recipeById = new Map(RECIPES.map(recipe => [recipe.id, recipe]));
 const equipmentIds = new Set(EQUIPMENT.map(item => item.id));
 const storeIds = new Set(STORES.map(store => store.id));
-const allergens = new Set(['gluten', 'milk', 'egg', 'fish', 'nuts', 'soy', 'shellfish', 'mustard']);
+const allergens = new Set(['gluten', 'milk', 'egg', 'fish', 'nuts', 'soy', 'shellfish', 'mustard', 'molluscs', 'celery', 'sulphites', 'sesame']);
 const quantityScale = 1000;
 const hasIngredient = id => Object.hasOwn(INGREDIENTS, id);
 const hasQuantityPrecision = value => Number.isFinite(value) && Number.isSafeInteger(Math.round(value * quantityScale)) && Math.abs(value * quantityScale - Math.round(value * quantityScale)) < 0.000001;
@@ -29,7 +29,7 @@ function settingsFor(input = {}) {
     ['proteins', id => PROTEINS.some(protein => protein.id === id)],
   ]) {
     if (!Array.isArray(settings[key]) || settings[key].some(id => !valid(id)) || new Set(settings[key]).size !== settings[key].length)
-      throw new Error(`A seleção de ${ { meals: 'refeições', equipment: 'utensílios', exclude: 'exclusões', pantry: 'despensa' }[key] } não é válida.`);
+      throw new Error(`A seleção de ${ { meals: 'refeições', equipment: 'utensílios', exclude: 'exclusões', pantry: 'despensa', proteins: 'proteínas' }[key] } não é válida.`);
     settings[key] = [...settings[key]];
   }
   if (!settings.meals.length) throw new Error('Escolha pelo menos uma refeição por dia.');
@@ -58,6 +58,7 @@ function settingsFor(input = {}) {
 }
 
 function matches(recipe, settings) {
+  if(recipe.mealType==='extra')return false;
   if (recipe.minutes > settings.maxMinutes || recipe.equipment.some(id => !settings.equipment.includes(id))) return false;
   if (!settings.proteins.includes(recipeProtein(recipe))) return false;
   return recipe.ingredients.every(({ id }) => !settings.exclude.includes(id) && INGREDIENTS[id].allergens.every(allergen => !settings.exclude.includes(allergen)));

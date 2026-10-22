@@ -1,4 +1,5 @@
 import {CREATOR_RECIPES} from './creator-recipes.mjs';
+import {EXTRA_INGREDIENTS} from './recipes/catalogue.mjs';
 // Quantities are per serving. Pack sizes are defaults; verified products can override them.
 // Prices are deliberately absent: the planner requires a verified store price catalogue.
 const ingredient = (name, unit, packQuantity, category, allergens = []) =>
@@ -54,6 +55,7 @@ export const INGREDIENTS = Object.fromEntries(Object.entries({
   parsley: ingredient('Salsa fresca', 'g', 20, 'Fruta e legumes'),
   coriander: ingredient('Coentros frescos', 'g', 20, 'Fruta e legumes'),
   chili: ingredient('Malagueta fresca', 'g', 50, 'Fruta e legumes'),
+  ...EXTRA_INGREDIENTS,
 }).map(([id, value]) => [id, { id, ...value }]));
 
 export const STORES = [
@@ -75,7 +77,7 @@ export const EQUIPMENT = [
 export const DEFAULT_SETTINGS = {
   people: 2, budget: 85, store: 'continente', days: 7, meals: ['lunch', 'dinner'],
   equipment: ['hob', 'pot', 'pan', 'oven', 'knife'], diet: 'all', exclude: [],
-  proteins: ['chicken','beef','pork','fish','eggs','shellfish'], pantryQuantities: {},
+  proteins: ['chicken','beef','pork','fish','eggs','shellfish','turkey','duck','rabbit','molluscs'], pantryQuantities: {},
   maxMinutes: 45, pantry: [], prices: {}, packQuantities: {}, purchaseRules: {}, priceStatus: 'unavailable',
 };
 
@@ -85,9 +87,12 @@ export const PROTEINS = [
   {id:'chicken',name:'Frango'}, {id:'beef',name:'Carne de vaca'},
   {id:'pork',name:'Porco'}, {id:'fish',name:'Peixe'},
   {id:'eggs',name:'Ovos'}, {id:'shellfish',name:'Marisco'},
+  {id:'turkey',name:'Peru'}, {id:'duck',name:'Pato'},
+  {id:'rabbit',name:'Coelho'}, {id:'molluscs',name:'Polvo, choco e lulas'},
 ];
 
 export function recipeProtein(recipe){
+  if(recipe.primaryProtein&&PROTEINS.some(p=>p.id===recipe.primaryProtein))return recipe.primaryProtein;
   const ids=new Set(recipe.ingredients.map(i=>i.id));
   for(const [id,ingredients] of [['beef',['beef']],['pork',['pork']],['chicken',['chicken']],['fish',['tuna','hake']],['shellfish',['prawns']],['eggs',['eggs']]])if(ingredients.some(i=>ids.has(i)))return id;
   return null;

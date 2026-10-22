@@ -1,4 +1,7 @@
-import catalogue from './catalogue.mjs';
+import baseCatalogue from './catalogue.mjs';
+import expandedCatalogue from './expanded-catalogue.mjs';
+
+const catalogue=[...baseCatalogue,...expandedCatalogue.filter(item=>['continente','auchan'].includes(item.store)&&!baseCatalogue.some(base=>base.store===item.store&&base.ingredientId===item.ingredientId))];
 
 // All URLs and pack sizes come from the individual retailer pages retained in fixtures/.
 const origins = { continente: 'https://www.continente.pt', auchan: 'https://www.auchan.pt' };
